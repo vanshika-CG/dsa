@@ -8,7 +8,7 @@ public:
                 return true;
                 break;
             }
-           m[first++];
+           m[first];
         }
          return false;
     }
