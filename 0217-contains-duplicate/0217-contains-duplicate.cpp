@@ -6,7 +6,6 @@ public:
             int first = nums[i];
             if(m.find(first)!= m.end()){
                 return true;
-                break;
             }
            m[first];
         }
