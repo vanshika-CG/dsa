@@ -5,6 +5,7 @@ public:
         int i =0;
         int j=0;
         while(i<s.length() && j<t.length()){
+             if(count==t.length()) break;
             if(t[j]==s[i]){
                 i++;
                 j++;
@@ -13,7 +14,7 @@ public:
             else{    
                 i++;
             }
-        if(count==t.length()) break;
+       
         }
         return t.length()-count;
     }
