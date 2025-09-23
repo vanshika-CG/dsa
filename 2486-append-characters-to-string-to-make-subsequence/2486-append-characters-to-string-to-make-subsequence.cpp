@@ -10,11 +10,10 @@ public:
                 j++;
                 count++;
             }
-            else{
-        
+            else{    
                 i++;
             }
-
+        if(count==t.length()) break;
         }
         return t.length()-count;
     }
