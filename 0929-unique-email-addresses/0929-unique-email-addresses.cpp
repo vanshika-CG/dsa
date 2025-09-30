@@ -4,16 +4,13 @@ public:
         unordered_set<string> uniemail;
         for(string email : emails){
             int pos =  email.find('@');
-            string local = email.substr(0, pos);
-            string domain = email.substr(pos+1);
-
             string s = "";
-            for(char c : local){
-                if(c=='.') continue;
-                if(c=='+') break;
-                s+=c;
+            for(int i=0; i<pos ; i++){
+                if(email[i]=='.') continue;
+                if(email[i]=='+') break;
+                s+=email[i];
             }
-            uniemail.insert(s + "@" + domain);
+            uniemail.insert(s + email.substr(pos));
         }
         return uniemail.size();
     }
