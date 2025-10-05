@@ -4,7 +4,7 @@ public:
         // Negative numbers are never palindrome
         if (x < 0) return false;
 
-        int reversed = 0;
+        long reversed = 0;
         int original = x;
 
         while (x != 0) {
