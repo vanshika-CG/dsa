@@ -4,7 +4,7 @@ public:
     long first = LLONG_MIN, second = LLONG_MIN, third = LLONG_MIN;
 
         for (int num : nums) {
-            if (num == first || num == second || num == third)
+            if (num == first || num == second)
                 continue;
 
             if (num > first) {
