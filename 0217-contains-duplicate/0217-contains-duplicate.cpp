@@ -3,8 +3,8 @@ public:
     bool containsDuplicate(vector<int>& nums) {
         unordered_map<int,int> m;
         for(int x : nums) m[x]++;
-        for(auto &p : m){
-            if(p.second > 1) return true;
+        for(int y : nums){
+            if(m[y]>1) return true;
         }
         return false;
     }
