@@ -7,7 +7,7 @@ public:
 
         for(int i = r ; i >= 2 ; i--){
             if(nums[i] < nums[i-1] + nums[i-2]){
-                ans = nums[i] + nums[i-1] + nums[i-2];
+                ans = max(nums[i] + nums[i-1] + nums[i-2] , ans);
             }
         }
         return ans;
