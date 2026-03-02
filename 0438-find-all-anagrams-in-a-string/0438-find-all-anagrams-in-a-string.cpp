@@ -16,7 +16,7 @@ public:
                 freq2[s[i - n] - 'a']--;
 
             if (freq1 == freq2) {
-                ans.push_back(abs(n - 1 - i));
+                ans.push_back(i - n + 1);
             }
         }
         return ans;
