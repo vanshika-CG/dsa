@@ -34,10 +34,12 @@ This repository is a collection of Data Structures and Algorithms problems solve
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0438-find-all-anagrams-in-a-string](https://github.com/vanshika-CG/dsa/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
+| [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/vanshika-CG/dsa/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0438-find-all-anagrams-in-a-string](https://github.com/vanshika-CG/dsa/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
+| [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/vanshika-CG/dsa/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
 | [1652-defuse-the-bomb](https://github.com/vanshika-CG/dsa/tree/main/1652-defuse-the-bomb/) | Easy |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/vanshika-CG/dsa/tree/main/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
 ## Array
