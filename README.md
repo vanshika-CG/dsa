@@ -37,6 +37,7 @@ This repository is a collection of Data Structures and Algorithms problems solve
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/vanshika-CG/dsa/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/vanshika-CG/dsa/tree/main/1758-minimum-changes-to-make-alternating-binary-string/) | Easy |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/vanshika-CG/dsa/tree/main/1784-check-if-binary-string-has-at-most-one-segment-of-ones/) | Easy |
+| [1869-longer-contiguous-segments-of-ones-than-zeros](https://github.com/vanshika-CG/dsa/tree/main/1869-longer-contiguous-segments-of-ones-than-zeros/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
