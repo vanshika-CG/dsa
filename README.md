@@ -70,6 +70,7 @@ This repository is a collection of Data Structures and Algorithms problems solve
 | [1727-largest-submatrix-with-rearrangements](https://github.com/vanshika-CG/dsa/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/vanshika-CG/dsa/tree/main/1980-find-unique-binary-string/) | Medium |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/vanshika-CG/dsa/tree/main/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
+| [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/vanshika-CG/dsa/tree/main/3070-count-submatrices-with-top-left-element-and-sum-less-than-k/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -115,6 +116,7 @@ This repository is a collection of Data Structures and Algorithms problems solve
 | ------- | ------- |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/vanshika-CG/dsa/tree/main/1337-the-k-weakest-rows-in-a-matrix/) | Easy |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/vanshika-CG/dsa/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
+| [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/vanshika-CG/dsa/tree/main/3070-count-submatrices-with-top-left-element-and-sum-less-than-k/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -149,4 +151,8 @@ This repository is a collection of Data Structures and Algorithms problems solve
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/vanshika-CG/dsa/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
+## Prefix Sum
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/vanshika-CG/dsa/tree/main/3070-count-submatrices-with-top-left-element-and-sum-less-than-k/) | Medium |
 <!---LeetCode Topics End-->
