@@ -54,6 +54,7 @@ This repository is a collection of Data Structures and Algorithms problems solve
 | [0567-permutation-in-string](https://github.com/vanshika-CG/dsa/tree/main/0567-permutation-in-string/) | Medium |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/vanshika-CG/dsa/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
 | [1652-defuse-the-bomb](https://github.com/vanshika-CG/dsa/tree/main/1652-defuse-the-bomb/) | Easy |
+| [2090-k-radius-subarray-averages](https://github.com/vanshika-CG/dsa/tree/main/2090-k-radius-subarray-averages/) | Medium |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/vanshika-CG/dsa/tree/main/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
 ## Array
 | Problem Name | Difficulty |
@@ -69,6 +70,7 @@ This repository is a collection of Data Structures and Algorithms problems solve
 | [1652-defuse-the-bomb](https://github.com/vanshika-CG/dsa/tree/main/1652-defuse-the-bomb/) | Easy |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/vanshika-CG/dsa/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/vanshika-CG/dsa/tree/main/1980-find-unique-binary-string/) | Medium |
+| [2090-k-radius-subarray-averages](https://github.com/vanshika-CG/dsa/tree/main/2090-k-radius-subarray-averages/) | Medium |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/vanshika-CG/dsa/tree/main/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/vanshika-CG/dsa/tree/main/3070-count-submatrices-with-top-left-element-and-sum-less-than-k/) | Medium |
 ## Two Pointers
