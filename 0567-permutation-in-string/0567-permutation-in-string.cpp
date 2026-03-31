@@ -8,12 +8,11 @@ public:
             freq1[c - 'a']++;
 
         int n = s1.size();
-
         for (int i = 0; i < s2.size(); i++) {
             freq2[s2[i] - 'a']++;
 
             if (i >= n) {
-                freq2[(s2[i - n]) - 'a']--;
+                freq2[s2[i - n] - 'a']--;
             }
 
             if (freq1 == freq2)
