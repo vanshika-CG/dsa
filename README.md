@@ -45,6 +45,7 @@ This repository is a collection of Data Structures and Algorithms problems solve
 | [0006-zigzag-conversion](https://github.com/vanshika-CG/dsa/tree/main/0006-zigzag-conversion/) | Medium |
 | [0012-integer-to-roman](https://github.com/vanshika-CG/dsa/tree/main/0012-integer-to-roman/) | Medium |
 | [0014-longest-common-prefix](https://github.com/vanshika-CG/dsa/tree/main/0014-longest-common-prefix/) | Easy |
+| [0125-valid-palindrome](https://github.com/vanshika-CG/dsa/tree/main/0125-valid-palindrome/) | Easy |
 | [0424-longest-repeating-character-replacement](https://github.com/vanshika-CG/dsa/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0438-find-all-anagrams-in-a-string](https://github.com/vanshika-CG/dsa/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/vanshika-CG/dsa/tree/main/0524-longest-word-in-dictionary-through-deleting/) | Medium |
@@ -103,6 +104,7 @@ This repository is a collection of Data Structures and Algorithms problems solve
 | [0015-3sum](https://github.com/vanshika-CG/dsa/tree/main/0015-3sum/) | Medium |
 | [0016-3sum-closest](https://github.com/vanshika-CG/dsa/tree/main/0016-3sum-closest/) | Medium |
 | [0027-remove-element](https://github.com/vanshika-CG/dsa/tree/main/0027-remove-element/) | Easy |
+| [0125-valid-palindrome](https://github.com/vanshika-CG/dsa/tree/main/0125-valid-palindrome/) | Easy |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/vanshika-CG/dsa/tree/main/0524-longest-word-in-dictionary-through-deleting/) | Medium |
 | [0567-permutation-in-string](https://github.com/vanshika-CG/dsa/tree/main/0567-permutation-in-string/) | Medium |
 ## Sorting
