@@ -171,6 +171,7 @@ This repository is a collection of Data Structures and Algorithms problems solve
 | [0009-palindrome-number](https://github.com/vanshika-CG/dsa/tree/main/0009-palindrome-number/) | Easy |
 | [0012-integer-to-roman](https://github.com/vanshika-CG/dsa/tree/main/0012-integer-to-roman/) | Medium |
 | [0066-plus-one](https://github.com/vanshika-CG/dsa/tree/main/0066-plus-one/) | Easy |
+| [0279-perfect-squares](https://github.com/vanshika-CG/dsa/tree/main/0279-perfect-squares/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/vanshika-CG/dsa/tree/main/0973-k-closest-points-to-origin/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
@@ -206,4 +207,12 @@ This repository is a collection of Data Structures and Algorithms problems solve
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/vanshika-CG/dsa/tree/main/0002-add-two-numbers/) | Medium |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0279-perfect-squares](https://github.com/vanshika-CG/dsa/tree/main/0279-perfect-squares/) | Medium |
+## Breadth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0279-perfect-squares](https://github.com/vanshika-CG/dsa/tree/main/0279-perfect-squares/) | Medium |
 <!---LeetCode Topics End-->
