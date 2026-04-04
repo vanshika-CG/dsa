@@ -1,22 +1,23 @@
 class Solution {
 public:
     bool validPalindrome(string s) {
-        int l = 0, r = s.size() - 1;
+        int n = s.size();
+        int l = 0, r = n - 1;
 
         while (l <= r) {
             if (s[l] == s[r]) {
                 l++;
                 r--;
             } else {
-                return ispalindrome(s, l + 1, r) || ispalindrome(s, l, r - 1);
+                return ispalidrome(s, l + 1, r) || ispalidrome(s, l, r - 1);
             }
         }
         return true;
     }
 
 private:
-    bool ispalindrome(string s, int l, int r) {
-        while (l < r) {
+    bool ispalidrome(string s, int l, int r) {
+        while (l <= r) {
             if (s[l] != s[r])
                 return false;
             l++;
