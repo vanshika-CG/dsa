@@ -1,8 +1,8 @@
 class Solution {
 public:
     vector<vector<int>> fourSum(vector<int>& nums, int target) {
-        vector<vector<int>> ans;
         sort(nums.begin(), nums.end());
+        vector<vector<int>> ans;
         int n = nums.size();
 
         for (int i = 0; i < n; i++) {
@@ -11,28 +11,27 @@ public:
             for (int j = i + 1; j < n; j++) {
                 if (j > i + 1 && nums[j] == nums[j - 1])
                     continue;
-                int p = j + 1, q = n - 1;
+                int l = j + 1, r = n - 1;
 
-                while (p < q) {
+                while (l < r) {
                     long long sum = (long long)nums[i] + (long long)nums[j] +
-                                    (long long)nums[p] + (long long)nums[q];
+                                    (long long)nums[l] + (long long)nums[r];
 
-                    if (sum > target) {
-                        q--;
-                    } else if (sum < target) {
-                        p++;
-                    } else {
-                        ans.push_back({nums[i], nums[j], nums[p], nums[q]});
-                        p++;
-                        q--;
-
-                        while (p < q && nums[p] == nums[p - 1])
-                            p++;
-                    }
+                    if (sum == target) {
+                        ans.push_back({nums[i], nums[j], nums[l], nums[r]});
+                        l++;
+                        r--;
+                        while (l < r && nums[l] == nums[l - 1])
+                            l++;
+                        while (l < r && nums[r] == nums[r + 1])
+                            r--;
+                    } else if (sum < target)
+                        l++;
+                    else
+                        r--;
                 }
             }
         }
-
         return ans;
     }
 };
