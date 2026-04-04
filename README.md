@@ -79,6 +79,7 @@ This repository is a collection of Data Structures and Algorithms problems solve
 | [0014-longest-common-prefix](https://github.com/vanshika-CG/dsa/tree/main/0014-longest-common-prefix/) | Easy |
 | [0015-3sum](https://github.com/vanshika-CG/dsa/tree/main/0015-3sum/) | Medium |
 | [0016-3sum-closest](https://github.com/vanshika-CG/dsa/tree/main/0016-3sum-closest/) | Medium |
+| [0018-4sum](https://github.com/vanshika-CG/dsa/tree/main/0018-4sum/) | Medium |
 | [0027-remove-element](https://github.com/vanshika-CG/dsa/tree/main/0027-remove-element/) | Easy |
 | [0066-plus-one](https://github.com/vanshika-CG/dsa/tree/main/0066-plus-one/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/vanshika-CG/dsa/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
@@ -105,6 +106,7 @@ This repository is a collection of Data Structures and Algorithms problems solve
 | [0011-container-with-most-water](https://github.com/vanshika-CG/dsa/tree/main/0011-container-with-most-water/) | Medium |
 | [0015-3sum](https://github.com/vanshika-CG/dsa/tree/main/0015-3sum/) | Medium |
 | [0016-3sum-closest](https://github.com/vanshika-CG/dsa/tree/main/0016-3sum-closest/) | Medium |
+| [0018-4sum](https://github.com/vanshika-CG/dsa/tree/main/0018-4sum/) | Medium |
 | [0027-remove-element](https://github.com/vanshika-CG/dsa/tree/main/0027-remove-element/) | Easy |
 | [0125-valid-palindrome](https://github.com/vanshika-CG/dsa/tree/main/0125-valid-palindrome/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/vanshika-CG/dsa/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
@@ -116,6 +118,7 @@ This repository is a collection of Data Structures and Algorithms problems solve
 | ------- | ------- |
 | [0015-3sum](https://github.com/vanshika-CG/dsa/tree/main/0015-3sum/) | Medium |
 | [0016-3sum-closest](https://github.com/vanshika-CG/dsa/tree/main/0016-3sum-closest/) | Medium |
+| [0018-4sum](https://github.com/vanshika-CG/dsa/tree/main/0018-4sum/) | Medium |
 | [0506-relative-ranks](https://github.com/vanshika-CG/dsa/tree/main/0506-relative-ranks/) | Easy |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/vanshika-CG/dsa/tree/main/0524-longest-word-in-dictionary-through-deleting/) | Medium |
 | [0720-longest-word-in-dictionary](https://github.com/vanshika-CG/dsa/tree/main/0720-longest-word-in-dictionary/) | Medium |
