@@ -103,6 +103,7 @@ This repository is a collection of Data Structures and Algorithms problems solve
 | [1980-find-unique-binary-string](https://github.com/vanshika-CG/dsa/tree/main/1980-find-unique-binary-string/) | Medium |
 | [2090-k-radius-subarray-averages](https://github.com/vanshika-CG/dsa/tree/main/2090-k-radius-subarray-averages/) | Medium |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/vanshika-CG/dsa/tree/main/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/vanshika-CG/dsa/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/vanshika-CG/dsa/tree/main/3070-count-submatrices-with-top-left-element-and-sum-less-than-k/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -121,6 +122,7 @@ This repository is a collection of Data Structures and Algorithms problems solve
 | [0680-valid-palindrome-ii](https://github.com/vanshika-CG/dsa/tree/main/0680-valid-palindrome-ii/) | Easy |
 | [0881-boats-to-save-people](https://github.com/vanshika-CG/dsa/tree/main/0881-boats-to-save-people/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/vanshika-CG/dsa/tree/main/0977-squares-of-a-sorted-array/) | Easy |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/vanshika-CG/dsa/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -136,6 +138,7 @@ This repository is a collection of Data Structures and Algorithms problems solve
 | [0977-squares-of-a-sorted-array](https://github.com/vanshika-CG/dsa/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/vanshika-CG/dsa/tree/main/1337-the-k-weakest-rows-in-a-matrix/) | Easy |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/vanshika-CG/dsa/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/vanshika-CG/dsa/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -166,6 +169,7 @@ This repository is a collection of Data Structures and Algorithms problems solve
 | [0287-find-the-duplicate-number](https://github.com/vanshika-CG/dsa/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0374-guess-number-higher-or-lower](https://github.com/vanshika-CG/dsa/tree/main/0374-guess-number-higher-or-lower/) | Easy |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/vanshika-CG/dsa/tree/main/1337-the-k-weakest-rows-in-a-matrix/) | Easy |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/vanshika-CG/dsa/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
