@@ -98,6 +98,7 @@ This repository is a collection of Data Structures and Algorithms problems solve
 | [0845-longest-mountain-in-array](https://github.com/vanshika-CG/dsa/tree/main/0845-longest-mountain-in-array/) | Medium |
 | [0881-boats-to-save-people](https://github.com/vanshika-CG/dsa/tree/main/0881-boats-to-save-people/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/vanshika-CG/dsa/tree/main/0904-fruit-into-baskets/) | Medium |
+| [0948-bag-of-tokens](https://github.com/vanshika-CG/dsa/tree/main/0948-bag-of-tokens/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/vanshika-CG/dsa/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/vanshika-CG/dsa/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1046-last-stone-weight](https://github.com/vanshika-CG/dsa/tree/main/1046-last-stone-weight/) | Easy |
@@ -129,6 +130,7 @@ This repository is a collection of Data Structures and Algorithms problems solve
 | [0680-valid-palindrome-ii](https://github.com/vanshika-CG/dsa/tree/main/0680-valid-palindrome-ii/) | Easy |
 | [0845-longest-mountain-in-array](https://github.com/vanshika-CG/dsa/tree/main/0845-longest-mountain-in-array/) | Medium |
 | [0881-boats-to-save-people](https://github.com/vanshika-CG/dsa/tree/main/0881-boats-to-save-people/) | Medium |
+| [0948-bag-of-tokens](https://github.com/vanshika-CG/dsa/tree/main/0948-bag-of-tokens/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/vanshika-CG/dsa/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1679-max-number-of-k-sum-pairs](https://github.com/vanshika-CG/dsa/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/vanshika-CG/dsa/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
@@ -143,6 +145,7 @@ This repository is a collection of Data Structures and Algorithms problems solve
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/vanshika-CG/dsa/tree/main/0524-longest-word-in-dictionary-through-deleting/) | Medium |
 | [0720-longest-word-in-dictionary](https://github.com/vanshika-CG/dsa/tree/main/0720-longest-word-in-dictionary/) | Medium |
 | [0881-boats-to-save-people](https://github.com/vanshika-CG/dsa/tree/main/0881-boats-to-save-people/) | Medium |
+| [0948-bag-of-tokens](https://github.com/vanshika-CG/dsa/tree/main/0948-bag-of-tokens/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/vanshika-CG/dsa/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/vanshika-CG/dsa/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/vanshika-CG/dsa/tree/main/1337-the-k-weakest-rows-in-a-matrix/) | Easy |
@@ -228,6 +231,7 @@ This repository is a collection of Data Structures and Algorithms problems solve
 | [0011-container-with-most-water](https://github.com/vanshika-CG/dsa/tree/main/0011-container-with-most-water/) | Medium |
 | [0680-valid-palindrome-ii](https://github.com/vanshika-CG/dsa/tree/main/0680-valid-palindrome-ii/) | Easy |
 | [0881-boats-to-save-people](https://github.com/vanshika-CG/dsa/tree/main/0881-boats-to-save-people/) | Medium |
+| [0948-bag-of-tokens](https://github.com/vanshika-CG/dsa/tree/main/0948-bag-of-tokens/) | Medium |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/vanshika-CG/dsa/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
