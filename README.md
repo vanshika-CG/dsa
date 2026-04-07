@@ -89,6 +89,7 @@ This repository is a collection of Data Structures and Algorithms problems solve
 | [0027-remove-element](https://github.com/vanshika-CG/dsa/tree/main/0027-remove-element/) | Easy |
 | [0066-plus-one](https://github.com/vanshika-CG/dsa/tree/main/0066-plus-one/) | Easy |
 | [0075-sort-colors](https://github.com/vanshika-CG/dsa/tree/main/0075-sort-colors/) | Medium |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/vanshika-CG/dsa/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/vanshika-CG/dsa/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/vanshika-CG/dsa/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0283-move-zeroes](https://github.com/vanshika-CG/dsa/tree/main/0283-move-zeroes/) | Easy |
@@ -126,6 +127,7 @@ This repository is a collection of Data Structures and Algorithms problems solve
 | [0026-remove-duplicates-from-sorted-array](https://github.com/vanshika-CG/dsa/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/vanshika-CG/dsa/tree/main/0027-remove-element/) | Easy |
 | [0075-sort-colors](https://github.com/vanshika-CG/dsa/tree/main/0075-sort-colors/) | Medium |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/vanshika-CG/dsa/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 | [0125-valid-palindrome](https://github.com/vanshika-CG/dsa/tree/main/0125-valid-palindrome/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/vanshika-CG/dsa/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0283-move-zeroes](https://github.com/vanshika-CG/dsa/tree/main/0283-move-zeroes/) | Easy |
