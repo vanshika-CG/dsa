@@ -142,6 +142,7 @@ This repository is a collection of Data Structures and Algorithms problems solve
 | [0821-shortest-distance-to-a-character](https://github.com/vanshika-CG/dsa/tree/main/0821-shortest-distance-to-a-character/) | Easy |
 | [0844-backspace-string-compare](https://github.com/vanshika-CG/dsa/tree/main/0844-backspace-string-compare/) | Easy |
 | [0845-longest-mountain-in-array](https://github.com/vanshika-CG/dsa/tree/main/0845-longest-mountain-in-array/) | Medium |
+| [0876-middle-of-the-linked-list](https://github.com/vanshika-CG/dsa/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [0881-boats-to-save-people](https://github.com/vanshika-CG/dsa/tree/main/0881-boats-to-save-people/) | Medium |
 | [0948-bag-of-tokens](https://github.com/vanshika-CG/dsa/tree/main/0948-bag-of-tokens/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/vanshika-CG/dsa/tree/main/0977-squares-of-a-sorted-array/) | Easy |
@@ -255,6 +256,7 @@ This repository is a collection of Data Structures and Algorithms problems solve
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/vanshika-CG/dsa/tree/main/0002-add-two-numbers/) | Medium |
+| [0876-middle-of-the-linked-list](https://github.com/vanshika-CG/dsa/tree/main/0876-middle-of-the-linked-list/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
