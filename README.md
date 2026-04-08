@@ -30,6 +30,7 @@ This repository is a collection of Data Structures and Algorithms problems solve
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/vanshika-CG/dsa/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0012-integer-to-roman](https://github.com/vanshika-CG/dsa/tree/main/0012-integer-to-roman/) | Medium |
+| [0141-linked-list-cycle](https://github.com/vanshika-CG/dsa/tree/main/0141-linked-list-cycle/) | Easy |
 | [0424-longest-repeating-character-replacement](https://github.com/vanshika-CG/dsa/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0438-find-all-anagrams-in-a-string](https://github.com/vanshika-CG/dsa/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0567-permutation-in-string](https://github.com/vanshika-CG/dsa/tree/main/0567-permutation-in-string/) | Medium |
@@ -131,6 +132,7 @@ This repository is a collection of Data Structures and Algorithms problems solve
 | [0075-sort-colors](https://github.com/vanshika-CG/dsa/tree/main/0075-sort-colors/) | Medium |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/vanshika-CG/dsa/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 | [0125-valid-palindrome](https://github.com/vanshika-CG/dsa/tree/main/0125-valid-palindrome/) | Easy |
+| [0141-linked-list-cycle](https://github.com/vanshika-CG/dsa/tree/main/0141-linked-list-cycle/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/vanshika-CG/dsa/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0283-move-zeroes](https://github.com/vanshika-CG/dsa/tree/main/0283-move-zeroes/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/vanshika-CG/dsa/tree/main/0287-find-the-duplicate-number/) | Medium |
@@ -256,6 +258,7 @@ This repository is a collection of Data Structures and Algorithms problems solve
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/vanshika-CG/dsa/tree/main/0002-add-two-numbers/) | Medium |
+| [0141-linked-list-cycle](https://github.com/vanshika-CG/dsa/tree/main/0141-linked-list-cycle/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/vanshika-CG/dsa/tree/main/0876-middle-of-the-linked-list/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
