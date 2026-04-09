@@ -32,6 +32,7 @@ This repository is a collection of Data Structures and Algorithms problems solve
 | [0012-integer-to-roman](https://github.com/vanshika-CG/dsa/tree/main/0012-integer-to-roman/) | Medium |
 | [0141-linked-list-cycle](https://github.com/vanshika-CG/dsa/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/vanshika-CG/dsa/tree/main/0142-linked-list-cycle-ii/) | Medium |
+| [0160-intersection-of-two-linked-lists](https://github.com/vanshika-CG/dsa/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0424-longest-repeating-character-replacement](https://github.com/vanshika-CG/dsa/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0438-find-all-anagrams-in-a-string](https://github.com/vanshika-CG/dsa/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0567-permutation-in-string](https://github.com/vanshika-CG/dsa/tree/main/0567-permutation-in-string/) | Medium |
@@ -136,6 +137,7 @@ This repository is a collection of Data Structures and Algorithms problems solve
 | [0125-valid-palindrome](https://github.com/vanshika-CG/dsa/tree/main/0125-valid-palindrome/) | Easy |
 | [0141-linked-list-cycle](https://github.com/vanshika-CG/dsa/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/vanshika-CG/dsa/tree/main/0142-linked-list-cycle-ii/) | Medium |
+| [0160-intersection-of-two-linked-lists](https://github.com/vanshika-CG/dsa/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/vanshika-CG/dsa/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0283-move-zeroes](https://github.com/vanshika-CG/dsa/tree/main/0283-move-zeroes/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/vanshika-CG/dsa/tree/main/0287-find-the-duplicate-number/) | Medium |
@@ -264,6 +266,7 @@ This repository is a collection of Data Structures and Algorithms problems solve
 | [0019-remove-nth-node-from-end-of-list](https://github.com/vanshika-CG/dsa/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0141-linked-list-cycle](https://github.com/vanshika-CG/dsa/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/vanshika-CG/dsa/tree/main/0142-linked-list-cycle-ii/) | Medium |
+| [0160-intersection-of-two-linked-lists](https://github.com/vanshika-CG/dsa/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/vanshika-CG/dsa/tree/main/0876-middle-of-the-linked-list/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
