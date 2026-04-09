@@ -22,19 +22,20 @@ public:
         ListNode* curr = slow;
         ListNode* prev = nullptr;
 
-
         while (curr) {
             ListNode* next = curr->next;
             curr->next = prev;
             prev = curr;
             curr = next;
-        };
-
-        while(prev){
-            if(head -> val != prev -> val) return false;
-            head = head -> next;
-            prev = prev -> next;
         }
+
+        while (prev) {
+            if (prev->val != head->val)
+                return false;
+            prev = prev->next;
+            head = head->next;
+        }
+
         return true;
     }
 };
