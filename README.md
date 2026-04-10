@@ -126,6 +126,7 @@ This repository is a collection of Data Structures and Algorithms problems solve
 | [1980-find-unique-binary-string](https://github.com/vanshika-CG/dsa/tree/main/1980-find-unique-binary-string/) | Medium |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/vanshika-CG/dsa/tree/main/1984-minimum-difference-between-highest-and-lowest-of-k-scores/) | Easy |
 | [2090-k-radius-subarray-averages](https://github.com/vanshika-CG/dsa/tree/main/2090-k-radius-subarray-averages/) | Medium |
+| [2460-apply-operations-to-an-array](https://github.com/vanshika-CG/dsa/tree/main/2460-apply-operations-to-an-array/) | Easy |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/vanshika-CG/dsa/tree/main/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/vanshika-CG/dsa/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/vanshika-CG/dsa/tree/main/3070-count-submatrices-with-top-left-element-and-sum-less-than-k/) | Medium |
@@ -165,6 +166,7 @@ This repository is a collection of Data Structures and Algorithms problems solve
 | [0977-squares-of-a-sorted-array](https://github.com/vanshika-CG/dsa/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1346-check-if-n-and-its-double-exist](https://github.com/vanshika-CG/dsa/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
 | [1679-max-number-of-k-sum-pairs](https://github.com/vanshika-CG/dsa/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
+| [2460-apply-operations-to-an-array](https://github.com/vanshika-CG/dsa/tree/main/2460-apply-operations-to-an-array/) | Easy |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/vanshika-CG/dsa/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
@@ -313,4 +315,5 @@ This repository is a collection of Data Structures and Algorithms problems solve
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0844-backspace-string-compare](https://github.com/vanshika-CG/dsa/tree/main/0844-backspace-string-compare/) | Easy |
+| [2460-apply-operations-to-an-array](https://github.com/vanshika-CG/dsa/tree/main/2460-apply-operations-to-an-array/) | Easy |
 <!---LeetCode Topics End-->
