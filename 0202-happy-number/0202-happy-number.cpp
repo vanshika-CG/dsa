@@ -1,24 +1,18 @@
 class Solution {
 public:
     bool isHappy(int n) {
-        unordered_set<int> seen;
+        unordered_set<int> s;
 
-        while (n != 1 && !seen.count(n)) {
-            seen.insert(n);
-            n = getSum(n);
+        while (n != 1 && !s.count(n)) {
+            s.insert(n);
+            long long sum = 0;
+            while (n) {
+                int r = n % 10;
+                sum += (r * r);
+                n /= 10;
+            }
+            n = sum;
         }
-
         return n == 1;
-    }
-
-private:
-    int getSum(int n) {
-        int sum = 0;
-        while (n > 0) {
-            int digit = n % 10;
-            sum += digit * digit;
-            n /= 10;
-        }
-        return sum;
     }
 };
