@@ -33,6 +33,7 @@ This repository is a collection of Data Structures and Algorithms problems solve
 | [0141-linked-list-cycle](https://github.com/vanshika-CG/dsa/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/vanshika-CG/dsa/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/vanshika-CG/dsa/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
+| [0202-happy-number](https://github.com/vanshika-CG/dsa/tree/main/0202-happy-number/) | Easy |
 | [0424-longest-repeating-character-replacement](https://github.com/vanshika-CG/dsa/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0438-find-all-anagrams-in-a-string](https://github.com/vanshika-CG/dsa/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0567-permutation-in-string](https://github.com/vanshika-CG/dsa/tree/main/0567-permutation-in-string/) | Medium |
@@ -139,6 +140,7 @@ This repository is a collection of Data Structures and Algorithms problems solve
 | [0142-linked-list-cycle-ii](https://github.com/vanshika-CG/dsa/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/vanshika-CG/dsa/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/vanshika-CG/dsa/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
+| [0202-happy-number](https://github.com/vanshika-CG/dsa/tree/main/0202-happy-number/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/vanshika-CG/dsa/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0283-move-zeroes](https://github.com/vanshika-CG/dsa/tree/main/0283-move-zeroes/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/vanshika-CG/dsa/tree/main/0287-find-the-duplicate-number/) | Medium |
@@ -229,6 +231,7 @@ This repository is a collection of Data Structures and Algorithms problems solve
 | [0009-palindrome-number](https://github.com/vanshika-CG/dsa/tree/main/0009-palindrome-number/) | Easy |
 | [0012-integer-to-roman](https://github.com/vanshika-CG/dsa/tree/main/0012-integer-to-roman/) | Medium |
 | [0066-plus-one](https://github.com/vanshika-CG/dsa/tree/main/0066-plus-one/) | Easy |
+| [0202-happy-number](https://github.com/vanshika-CG/dsa/tree/main/0202-happy-number/) | Easy |
 | [0279-perfect-squares](https://github.com/vanshika-CG/dsa/tree/main/0279-perfect-squares/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/vanshika-CG/dsa/tree/main/0973-k-closest-points-to-origin/) | Medium |
 ## Divide and Conquer
