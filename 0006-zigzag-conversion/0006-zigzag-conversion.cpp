@@ -1,6 +1,8 @@
 class Solution {
 public:
     string convert(string s, int numRows) {
+        if(numRows == 1) return s;
+
         vector<string> ans(numRows);
         bool isdown = false;
         int curr = 0;
