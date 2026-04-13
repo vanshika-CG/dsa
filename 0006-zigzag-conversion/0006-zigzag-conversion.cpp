@@ -1,12 +1,9 @@
 class Solution {
 public:
     string convert(string s, int numRows) {
-        if (numRows > s.size() || numRows == 1)
-            return s;
-
         vector<string> ans(numRows);
-        int curr = 0;
         bool isdown = false;
+        int curr = 0;
 
         for (char c : s) {
             ans[curr] += c;
@@ -15,17 +12,16 @@ public:
                 isdown = !isdown;
 
             if (isdown)
-                curr += 1;
+                curr++;
             else
-                curr -= 1;
+                curr--;
         }
 
         string res = "";
 
-        for (string r : ans) {
-            res += r;
+        for (string t : ans) {
+            res += t;
         }
-
         return res;
     }
 };
