@@ -10,16 +10,16 @@
 class Solution {
 public:
     int guessNumber(int n) {
-        int l = 1, r = n;
+        int l = 1, h = n;
 
-        while (l <= r) {
-            int mid = l + (r - l) / 2;
-            int res = guess(mid);
+        while (l <= h) {
+            int mid = l + (h - l) / 2;
+            int num = guess(mid);
 
-            if (res == 0)
+            if (num == 0)
                 return mid;
-            else if (res == -1)
-                r = mid - 1;
+            else if (num == -1)
+                h = mid - 1;
             else
                 l = mid + 1;
         }
