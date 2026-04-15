@@ -224,6 +224,7 @@ This repository is a collection of Data Structures and Algorithms problems solve
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/vanshika-CG/dsa/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/vanshika-CG/dsa/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/vanshika-CG/dsa/tree/main/0287-find-the-duplicate-number/) | Medium |
+| [0367-valid-perfect-square](https://github.com/vanshika-CG/dsa/tree/main/0367-valid-perfect-square/) | Easy |
 | [0374-guess-number-higher-or-lower](https://github.com/vanshika-CG/dsa/tree/main/0374-guess-number-higher-or-lower/) | Easy |
 | [0704-binary-search](https://github.com/vanshika-CG/dsa/tree/main/0704-binary-search/) | Easy |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/vanshika-CG/dsa/tree/main/1337-the-k-weakest-rows-in-a-matrix/) | Easy |
@@ -255,6 +256,7 @@ This repository is a collection of Data Structures and Algorithms problems solve
 | [0069-sqrtx](https://github.com/vanshika-CG/dsa/tree/main/0069-sqrtx/) | Easy |
 | [0202-happy-number](https://github.com/vanshika-CG/dsa/tree/main/0202-happy-number/) | Easy |
 | [0279-perfect-squares](https://github.com/vanshika-CG/dsa/tree/main/0279-perfect-squares/) | Medium |
+| [0367-valid-perfect-square](https://github.com/vanshika-CG/dsa/tree/main/0367-valid-perfect-square/) | Easy |
 | [0973-k-closest-points-to-origin](https://github.com/vanshika-CG/dsa/tree/main/0973-k-closest-points-to-origin/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
