@@ -124,6 +124,7 @@ This repository is a collection of Data Structures and Algorithms problems solve
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/vanshika-CG/dsa/tree/main/1299-replace-elements-with-greatest-element-on-right-side/) | Easy |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/vanshika-CG/dsa/tree/main/1337-the-k-weakest-rows-in-a-matrix/) | Easy |
 | [1346-check-if-n-and-its-double-exist](https://github.com/vanshika-CG/dsa/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/vanshika-CG/dsa/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
 | [1652-defuse-the-bomb](https://github.com/vanshika-CG/dsa/tree/main/1652-defuse-the-bomb/) | Easy |
 | [1679-max-number-of-k-sum-pairs](https://github.com/vanshika-CG/dsa/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/vanshika-CG/dsa/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
@@ -232,12 +233,14 @@ This repository is a collection of Data Structures and Algorithms problems solve
 | [0704-binary-search](https://github.com/vanshika-CG/dsa/tree/main/0704-binary-search/) | Easy |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/vanshika-CG/dsa/tree/main/1337-the-k-weakest-rows-in-a-matrix/) | Easy |
 | [1346-check-if-n-and-its-double-exist](https://github.com/vanshika-CG/dsa/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/vanshika-CG/dsa/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/vanshika-CG/dsa/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0074-search-a-2d-matrix](https://github.com/vanshika-CG/dsa/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/vanshika-CG/dsa/tree/main/1337-the-k-weakest-rows-in-a-matrix/) | Easy |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/vanshika-CG/dsa/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/vanshika-CG/dsa/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/vanshika-CG/dsa/tree/main/3070-count-submatrices-with-top-left-element-and-sum-less-than-k/) | Medium |
 ## Backtracking
