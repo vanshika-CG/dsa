@@ -98,6 +98,7 @@ This repository is a collection of Data Structures and Algorithms problems solve
 | [0027-remove-element](https://github.com/vanshika-CG/dsa/tree/main/0027-remove-element/) | Easy |
 | [0035-search-insert-position](https://github.com/vanshika-CG/dsa/tree/main/0035-search-insert-position/) | Easy |
 | [0066-plus-one](https://github.com/vanshika-CG/dsa/tree/main/0066-plus-one/) | Easy |
+| [0074-search-a-2d-matrix](https://github.com/vanshika-CG/dsa/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0075-sort-colors](https://github.com/vanshika-CG/dsa/tree/main/0075-sort-colors/) | Medium |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/vanshika-CG/dsa/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/vanshika-CG/dsa/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
@@ -221,6 +222,7 @@ This repository is a collection of Data Structures and Algorithms problems solve
 | ------- | ------- |
 | [0035-search-insert-position](https://github.com/vanshika-CG/dsa/tree/main/0035-search-insert-position/) | Easy |
 | [0069-sqrtx](https://github.com/vanshika-CG/dsa/tree/main/0069-sqrtx/) | Easy |
+| [0074-search-a-2d-matrix](https://github.com/vanshika-CG/dsa/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/vanshika-CG/dsa/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/vanshika-CG/dsa/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/vanshika-CG/dsa/tree/main/0287-find-the-duplicate-number/) | Medium |
@@ -233,6 +235,7 @@ This repository is a collection of Data Structures and Algorithms problems solve
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0074-search-a-2d-matrix](https://github.com/vanshika-CG/dsa/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/vanshika-CG/dsa/tree/main/1337-the-k-weakest-rows-in-a-matrix/) | Easy |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/vanshika-CG/dsa/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/vanshika-CG/dsa/tree/main/3070-count-submatrices-with-top-left-element-and-sum-less-than-k/) | Medium |
