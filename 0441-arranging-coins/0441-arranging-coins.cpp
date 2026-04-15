@@ -1,18 +1,19 @@
 class Solution {
 public:
     int arrangeCoins(int n) {
-        long sum = 0;
-        int ans = 0;
-        for (int i = 1; i <= n; i++) {
-            sum += i;
-            if (sum == n) {
-                ans++;
-                return ans;
-            } else if (sum < n)
-                ans++;
+        int l = 1, h = n;
+
+        while (l <= h) {
+            long long mid = l + (h - l) / 2;
+            long long sum = mid * (mid + 1) / 2;
+
+            if (sum == n)
+                return mid;
+            else if (sum > n)
+                h = mid - 1;
             else
-                break;
+                l = mid + 1;
         }
-        return ans;
+        return h;
     }
 };
