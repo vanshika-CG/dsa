@@ -135,6 +135,7 @@ This repository is a collection of Data Structures and Algorithms problems solve
 | [2460-apply-operations-to-an-array](https://github.com/vanshika-CG/dsa/tree/main/2460-apply-operations-to-an-array/) | Easy |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/vanshika-CG/dsa/tree/main/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/vanshika-CG/dsa/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/vanshika-CG/dsa/tree/main/2529-maximum-count-of-positive-integer-and-negative-integer/) | Easy |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/vanshika-CG/dsa/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/vanshika-CG/dsa/tree/main/3070-count-submatrices-with-top-left-element-and-sum-less-than-k/) | Medium |
 ## Two Pointers
@@ -234,6 +235,7 @@ This repository is a collection of Data Structures and Algorithms problems solve
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/vanshika-CG/dsa/tree/main/1337-the-k-weakest-rows-in-a-matrix/) | Easy |
 | [1346-check-if-n-and-its-double-exist](https://github.com/vanshika-CG/dsa/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/vanshika-CG/dsa/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/vanshika-CG/dsa/tree/main/2529-maximum-count-of-positive-integer-and-negative-integer/) | Easy |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/vanshika-CG/dsa/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
@@ -335,4 +337,8 @@ This repository is a collection of Data Structures and Algorithms problems solve
 | ------- | ------- |
 | [0844-backspace-string-compare](https://github.com/vanshika-CG/dsa/tree/main/0844-backspace-string-compare/) | Easy |
 | [2460-apply-operations-to-an-array](https://github.com/vanshika-CG/dsa/tree/main/2460-apply-operations-to-an-array/) | Easy |
+## Counting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/vanshika-CG/dsa/tree/main/2529-maximum-count-of-positive-integer-and-negative-integer/) | Easy |
 <!---LeetCode Topics End-->
