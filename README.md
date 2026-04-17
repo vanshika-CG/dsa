@@ -231,6 +231,7 @@ This repository is a collection of Data Structures and Algorithms problems solve
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/vanshika-CG/dsa/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/vanshika-CG/dsa/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/vanshika-CG/dsa/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
+| [0278-first-bad-version](https://github.com/vanshika-CG/dsa/tree/main/0278-first-bad-version/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/vanshika-CG/dsa/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0367-valid-perfect-square](https://github.com/vanshika-CG/dsa/tree/main/0367-valid-perfect-square/) | Easy |
 | [0374-guess-number-higher-or-lower](https://github.com/vanshika-CG/dsa/tree/main/0374-guess-number-higher-or-lower/) | Easy |
@@ -289,6 +290,7 @@ This repository is a collection of Data Structures and Algorithms problems solve
 ## Interactive
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0278-first-bad-version](https://github.com/vanshika-CG/dsa/tree/main/0278-first-bad-version/) | Easy |
 | [0374-guess-number-higher-or-lower](https://github.com/vanshika-CG/dsa/tree/main/0374-guess-number-higher-or-lower/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
