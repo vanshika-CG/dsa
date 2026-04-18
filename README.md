@@ -116,6 +116,7 @@ This repository is a collection of Data Structures and Algorithms problems solve
 | [0643-maximum-average-subarray-i](https://github.com/vanshika-CG/dsa/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0704-binary-search](https://github.com/vanshika-CG/dsa/tree/main/0704-binary-search/) | Easy |
 | [0720-longest-word-in-dictionary](https://github.com/vanshika-CG/dsa/tree/main/0720-longest-word-in-dictionary/) | Medium |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/vanshika-CG/dsa/tree/main/0744-find-smallest-letter-greater-than-target/) | Easy |
 | [0821-shortest-distance-to-a-character](https://github.com/vanshika-CG/dsa/tree/main/0821-shortest-distance-to-a-character/) | Easy |
 | [0845-longest-mountain-in-array](https://github.com/vanshika-CG/dsa/tree/main/0845-longest-mountain-in-array/) | Medium |
 | [0852-peak-index-in-a-mountain-array](https://github.com/vanshika-CG/dsa/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
@@ -242,6 +243,7 @@ This repository is a collection of Data Structures and Algorithms problems solve
 | [0374-guess-number-higher-or-lower](https://github.com/vanshika-CG/dsa/tree/main/0374-guess-number-higher-or-lower/) | Easy |
 | [0441-arranging-coins](https://github.com/vanshika-CG/dsa/tree/main/0441-arranging-coins/) | Easy |
 | [0704-binary-search](https://github.com/vanshika-CG/dsa/tree/main/0704-binary-search/) | Easy |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/vanshika-CG/dsa/tree/main/0744-find-smallest-letter-greater-than-target/) | Easy |
 | [0852-peak-index-in-a-mountain-array](https://github.com/vanshika-CG/dsa/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/vanshika-CG/dsa/tree/main/1337-the-k-weakest-rows-in-a-matrix/) | Easy |
 | [1346-check-if-n-and-its-double-exist](https://github.com/vanshika-CG/dsa/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
