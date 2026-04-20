@@ -284,6 +284,7 @@ This repository is a collection of Data Structures and Algorithms problems solve
 | [0367-valid-perfect-square](https://github.com/vanshika-CG/dsa/tree/main/0367-valid-perfect-square/) | Easy |
 | [0441-arranging-coins](https://github.com/vanshika-CG/dsa/tree/main/0441-arranging-coins/) | Easy |
 | [0973-k-closest-points-to-origin](https://github.com/vanshika-CG/dsa/tree/main/0973-k-closest-points-to-origin/) | Medium |
+| [1492-the-kth-factor-of-n](https://github.com/vanshika-CG/dsa/tree/main/1492-the-kth-factor-of-n/) | Medium |
 | [3783-mirror-distance-of-an-integer](https://github.com/vanshika-CG/dsa/tree/main/3783-mirror-distance-of-an-integer/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
@@ -360,4 +361,8 @@ This repository is a collection of Data Structures and Algorithms problems solve
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/vanshika-CG/dsa/tree/main/2529-maximum-count-of-positive-integer-and-negative-integer/) | Easy |
+## Number Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1492-the-kth-factor-of-n](https://github.com/vanshika-CG/dsa/tree/main/1492-the-kth-factor-of-n/) | Medium |
 <!---LeetCode Topics End-->
