@@ -71,6 +71,7 @@ This repository is a collection of Data Structures and Algorithms problems solve
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/vanshika-CG/dsa/tree/main/1784-check-if-binary-string-has-at-most-one-segment-of-ones/) | Easy |
 | [1869-longer-contiguous-segments-of-ones-than-zeros](https://github.com/vanshika-CG/dsa/tree/main/1869-longer-contiguous-segments-of-ones-than-zeros/) | Easy |
 | [1980-find-unique-binary-string](https://github.com/vanshika-CG/dsa/tree/main/1980-find-unique-binary-string/) | Medium |
+| [2129-capitalize-the-title](https://github.com/vanshika-CG/dsa/tree/main/2129-capitalize-the-title/) | Easy |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/vanshika-CG/dsa/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/vanshika-CG/dsa/tree/main/2839-check-if-strings-can-be-made-equal-with-operations-i/) | Easy |
 | [3120-count-the-number-of-special-characters-i](https://github.com/vanshika-CG/dsa/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
