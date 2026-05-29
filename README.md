@@ -152,6 +152,7 @@ This repository is a collection of Data Structures and Algorithms problems solve
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/vanshika-CG/dsa/tree/main/2529-maximum-count-of-positive-integer-and-negative-integer/) | Easy |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/vanshika-CG/dsa/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/vanshika-CG/dsa/tree/main/3070-count-submatrices-with-top-left-element-and-sum-less-than-k/) | Medium |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/vanshika-CG/dsa/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -292,6 +293,7 @@ This repository is a collection of Data Structures and Algorithms problems solve
 | [0441-arranging-coins](https://github.com/vanshika-CG/dsa/tree/main/0441-arranging-coins/) | Easy |
 | [0973-k-closest-points-to-origin](https://github.com/vanshika-CG/dsa/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [1492-the-kth-factor-of-n](https://github.com/vanshika-CG/dsa/tree/main/1492-the-kth-factor-of-n/) | Medium |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/vanshika-CG/dsa/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3783-mirror-distance-of-an-integer](https://github.com/vanshika-CG/dsa/tree/main/3783-mirror-distance-of-an-integer/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
