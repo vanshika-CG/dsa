@@ -283,6 +283,7 @@ This repository is a collection of Data Structures and Algorithms problems solve
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/vanshika-CG/dsa/tree/main/0002-add-two-numbers/) | Medium |
+| [0007-reverse-integer](https://github.com/vanshika-CG/dsa/tree/main/0007-reverse-integer/) | Medium |
 | [0009-palindrome-number](https://github.com/vanshika-CG/dsa/tree/main/0009-palindrome-number/) | Easy |
 | [0012-integer-to-roman](https://github.com/vanshika-CG/dsa/tree/main/0012-integer-to-roman/) | Medium |
 | [0066-plus-one](https://github.com/vanshika-CG/dsa/tree/main/0066-plus-one/) | Easy |
