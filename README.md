@@ -152,6 +152,7 @@ This repository is a collection of Data Structures and Algorithms problems solve
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/vanshika-CG/dsa/tree/main/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/vanshika-CG/dsa/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/vanshika-CG/dsa/tree/main/2529-maximum-count-of-positive-integer-and-negative-integer/) | Easy |
+| [2574-left-and-right-sum-differences](https://github.com/vanshika-CG/dsa/tree/main/2574-left-and-right-sum-differences/) | Easy |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/vanshika-CG/dsa/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/vanshika-CG/dsa/tree/main/3070-count-submatrices-with-top-left-element-and-sum-less-than-k/) | Medium |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/vanshika-CG/dsa/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
@@ -332,6 +333,7 @@ This repository is a collection of Data Structures and Algorithms problems solve
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/vanshika-CG/dsa/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+| [2574-left-and-right-sum-differences](https://github.com/vanshika-CG/dsa/tree/main/2574-left-and-right-sum-differences/) | Easy |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/vanshika-CG/dsa/tree/main/3070-count-submatrices-with-top-left-element-and-sum-less-than-k/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
