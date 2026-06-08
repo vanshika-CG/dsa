@@ -149,6 +149,7 @@ This repository is a collection of Data Structures and Algorithms problems solve
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/vanshika-CG/dsa/tree/main/1984-minimum-difference-between-highest-and-lowest-of-k-scores/) | Easy |
 | [2090-k-radius-subarray-averages](https://github.com/vanshika-CG/dsa/tree/main/2090-k-radius-subarray-averages/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/vanshika-CG/dsa/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
+| [2161-partition-array-according-to-given-pivot](https://github.com/vanshika-CG/dsa/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2196-create-binary-tree-from-descriptions](https://github.com/vanshika-CG/dsa/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 | [2460-apply-operations-to-an-array](https://github.com/vanshika-CG/dsa/tree/main/2460-apply-operations-to-an-array/) | Easy |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/vanshika-CG/dsa/tree/main/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
@@ -194,6 +195,7 @@ This repository is a collection of Data Structures and Algorithms problems solve
 | [0977-squares-of-a-sorted-array](https://github.com/vanshika-CG/dsa/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1346-check-if-n-and-its-double-exist](https://github.com/vanshika-CG/dsa/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
 | [1679-max-number-of-k-sum-pairs](https://github.com/vanshika-CG/dsa/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
+| [2161-partition-array-according-to-given-pivot](https://github.com/vanshika-CG/dsa/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2460-apply-operations-to-an-array](https://github.com/vanshika-CG/dsa/tree/main/2460-apply-operations-to-an-array/) | Easy |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/vanshika-CG/dsa/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
 ## Sorting
@@ -378,6 +380,7 @@ This repository is a collection of Data Structures and Algorithms problems solve
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0844-backspace-string-compare](https://github.com/vanshika-CG/dsa/tree/main/0844-backspace-string-compare/) | Easy |
+| [2161-partition-array-according-to-given-pivot](https://github.com/vanshika-CG/dsa/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2460-apply-operations-to-an-array](https://github.com/vanshika-CG/dsa/tree/main/2460-apply-operations-to-an-array/) | Easy |
 ## Counting
 | Problem Name | Difficulty |
