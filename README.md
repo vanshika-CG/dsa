@@ -160,6 +160,7 @@ This repository is a collection of Data Structures and Algorithms problems solve
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/vanshika-CG/dsa/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/vanshika-CG/dsa/tree/main/3070-count-submatrices-with-top-left-element-and-sum-less-than-k/) | Medium |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/vanshika-CG/dsa/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
+| [3689-maximum-total-subarray-value-i](https://github.com/vanshika-CG/dsa/tree/main/3689-maximum-total-subarray-value-i/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -335,6 +336,7 @@ This repository is a collection of Data Structures and Algorithms problems solve
 | [0948-bag-of-tokens](https://github.com/vanshika-CG/dsa/tree/main/0948-bag-of-tokens/) | Medium |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/vanshika-CG/dsa/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/vanshika-CG/dsa/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
+| [3689-maximum-total-subarray-value-i](https://github.com/vanshika-CG/dsa/tree/main/3689-maximum-total-subarray-value-i/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
