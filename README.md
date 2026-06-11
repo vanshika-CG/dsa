@@ -236,6 +236,7 @@ This repository is a collection of Data Structures and Algorithms problems solve
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0676-implement-magic-dictionary](https://github.com/vanshika-CG/dsa/tree/main/0676-implement-magic-dictionary/) | Medium |
+| [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/vanshika-CG/dsa/tree/main/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -310,6 +311,7 @@ This repository is a collection of Data Structures and Algorithms problems solve
 | [0973-k-closest-points-to-origin](https://github.com/vanshika-CG/dsa/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [1492-the-kth-factor-of-n](https://github.com/vanshika-CG/dsa/tree/main/1492-the-kth-factor-of-n/) | Medium |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/vanshika-CG/dsa/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
+| [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/vanshika-CG/dsa/tree/main/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/vanshika-CG/dsa/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 | [3783-mirror-distance-of-an-integer](https://github.com/vanshika-CG/dsa/tree/main/3783-mirror-distance-of-an-integer/) | Easy |
 ## Divide and Conquer
@@ -401,6 +403,7 @@ This repository is a collection of Data Structures and Algorithms problems solve
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2196-create-binary-tree-from-descriptions](https://github.com/vanshika-CG/dsa/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
+| [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/vanshika-CG/dsa/tree/main/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
