@@ -52,6 +52,7 @@ This repository is a collection of Data Structures and Algorithms problems solve
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/vanshika-CG/dsa/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0005-longest-palindromic-substring](https://github.com/vanshika-CG/dsa/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0006-zigzag-conversion](https://github.com/vanshika-CG/dsa/tree/main/0006-zigzag-conversion/) | Medium |
 | [0012-integer-to-roman](https://github.com/vanshika-CG/dsa/tree/main/0012-integer-to-roman/) | Medium |
 | [0014-longest-common-prefix](https://github.com/vanshika-CG/dsa/tree/main/0014-longest-common-prefix/) | Easy |
@@ -168,6 +169,7 @@ This repository is a collection of Data Structures and Algorithms problems solve
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0005-longest-palindromic-substring](https://github.com/vanshika-CG/dsa/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0011-container-with-most-water](https://github.com/vanshika-CG/dsa/tree/main/0011-container-with-most-water/) | Medium |
 | [0015-3sum](https://github.com/vanshika-CG/dsa/tree/main/0015-3sum/) | Medium |
 | [0016-3sum-closest](https://github.com/vanshika-CG/dsa/tree/main/0016-3sum-closest/) | Medium |
@@ -370,6 +372,7 @@ This repository is a collection of Data Structures and Algorithms problems solve
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0005-longest-palindromic-substring](https://github.com/vanshika-CG/dsa/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0279-perfect-squares](https://github.com/vanshika-CG/dsa/tree/main/0279-perfect-squares/) | Medium |
 | [0392-is-subsequence](https://github.com/vanshika-CG/dsa/tree/main/0392-is-subsequence/) | Easy |
 | [0845-longest-mountain-in-array](https://github.com/vanshika-CG/dsa/tree/main/0845-longest-mountain-in-array/) | Medium |
