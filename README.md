@@ -79,6 +79,7 @@ This repository is a collection of Data Structures and Algorithms problems solve
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/vanshika-CG/dsa/tree/main/2839-check-if-strings-can-be-made-equal-with-operations-i/) | Easy |
 | [3120-count-the-number-of-special-characters-i](https://github.com/vanshika-CG/dsa/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/vanshika-CG/dsa/tree/main/3121-count-the-number-of-special-characters-ii/) | Medium |
+| [3838-weighted-word-mapping](https://github.com/vanshika-CG/dsa/tree/main/3838-weighted-word-mapping/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -167,6 +168,7 @@ This repository is a collection of Data Structures and Algorithms problems solve
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/vanshika-CG/dsa/tree/main/3070-count-submatrices-with-top-left-element-and-sum-less-than-k/) | Medium |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/vanshika-CG/dsa/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3689-maximum-total-subarray-value-i](https://github.com/vanshika-CG/dsa/tree/main/3689-maximum-total-subarray-value-i/) | Medium |
+| [3838-weighted-word-mapping](https://github.com/vanshika-CG/dsa/tree/main/3838-weighted-word-mapping/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -399,6 +401,7 @@ This repository is a collection of Data Structures and Algorithms problems solve
 | [1929-concatenation-of-array](https://github.com/vanshika-CG/dsa/tree/main/1929-concatenation-of-array/) | Easy |
 | [2161-partition-array-according-to-given-pivot](https://github.com/vanshika-CG/dsa/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2460-apply-operations-to-an-array](https://github.com/vanshika-CG/dsa/tree/main/2460-apply-operations-to-an-array/) | Easy |
+| [3838-weighted-word-mapping](https://github.com/vanshika-CG/dsa/tree/main/3838-weighted-word-mapping/) | Easy |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
