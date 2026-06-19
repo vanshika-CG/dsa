@@ -153,6 +153,7 @@ This repository is a collection of Data Structures and Algorithms problems solve
 | [1652-defuse-the-bomb](https://github.com/vanshika-CG/dsa/tree/main/1652-defuse-the-bomb/) | Easy |
 | [1679-max-number-of-k-sum-pairs](https://github.com/vanshika-CG/dsa/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/vanshika-CG/dsa/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
+| [1732-find-the-highest-altitude](https://github.com/vanshika-CG/dsa/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/vanshika-CG/dsa/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 | [1848-minimum-distance-to-the-target-element](https://github.com/vanshika-CG/dsa/tree/main/1848-minimum-distance-to-the-target-element/) | Easy |
 | [1929-concatenation-of-array](https://github.com/vanshika-CG/dsa/tree/main/1929-concatenation-of-array/) | Easy |
@@ -359,6 +360,7 @@ This repository is a collection of Data Structures and Algorithms problems solve
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/vanshika-CG/dsa/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+| [1732-find-the-highest-altitude](https://github.com/vanshika-CG/dsa/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [2574-left-and-right-sum-differences](https://github.com/vanshika-CG/dsa/tree/main/2574-left-and-right-sum-differences/) | Easy |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/vanshika-CG/dsa/tree/main/3070-count-submatrices-with-top-left-element-and-sum-less-than-k/) | Medium |
 ## Linked List
