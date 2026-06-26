@@ -117,6 +117,7 @@ This repository is a collection of Data Structures and Algorithms problems solve
 | [0033-search-in-rotated-sorted-array](https://github.com/vanshika-CG/dsa/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/vanshika-CG/dsa/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/vanshika-CG/dsa/tree/main/0035-search-insert-position/) | Easy |
+| [0039-combination-sum](https://github.com/vanshika-CG/dsa/tree/main/0039-combination-sum/) | Medium |
 | [0056-merge-intervals](https://github.com/vanshika-CG/dsa/tree/main/0056-merge-intervals/) | Medium |
 | [0057-insert-interval](https://github.com/vanshika-CG/dsa/tree/main/0057-insert-interval/) | Medium |
 | [0066-plus-one](https://github.com/vanshika-CG/dsa/tree/main/0066-plus-one/) | Easy |
@@ -311,6 +312,7 @@ This repository is a collection of Data Structures and Algorithms problems solve
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0039-combination-sum](https://github.com/vanshika-CG/dsa/tree/main/0039-combination-sum/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/vanshika-CG/dsa/tree/main/1980-find-unique-binary-string/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
