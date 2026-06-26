@@ -114,6 +114,7 @@ This repository is a collection of Data Structures and Algorithms problems solve
 | [0018-4sum](https://github.com/vanshika-CG/dsa/tree/main/0018-4sum/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/vanshika-CG/dsa/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/vanshika-CG/dsa/tree/main/0027-remove-element/) | Easy |
+| [0033-search-in-rotated-sorted-array](https://github.com/vanshika-CG/dsa/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/vanshika-CG/dsa/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/vanshika-CG/dsa/tree/main/0035-search-insert-position/) | Easy |
 | [0056-merge-intervals](https://github.com/vanshika-CG/dsa/tree/main/0056-merge-intervals/) | Medium |
@@ -273,6 +274,7 @@ This repository is a collection of Data Structures and Algorithms problems solve
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/vanshika-CG/dsa/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/vanshika-CG/dsa/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/vanshika-CG/dsa/tree/main/0035-search-insert-position/) | Easy |
 | [0069-sqrtx](https://github.com/vanshika-CG/dsa/tree/main/0069-sqrtx/) | Easy |
