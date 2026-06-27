@@ -49,6 +49,7 @@ This repository is a collection of Data Structures and Algorithms problems solve
 | [1980-find-unique-binary-string](https://github.com/vanshika-CG/dsa/tree/main/1980-find-unique-binary-string/) | Medium |
 | [2196-create-binary-tree-from-descriptions](https://github.com/vanshika-CG/dsa/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/vanshika-CG/dsa/tree/main/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
+| [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/vanshika-CG/dsa/tree/main/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
 | [3120-count-the-number-of-special-characters-i](https://github.com/vanshika-CG/dsa/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/vanshika-CG/dsa/tree/main/3121-count-the-number-of-special-characters-ii/) | Medium |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/vanshika-CG/dsa/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
@@ -177,6 +178,7 @@ This repository is a collection of Data Structures and Algorithms problems solve
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/vanshika-CG/dsa/tree/main/2529-maximum-count-of-positive-integer-and-negative-integer/) | Easy |
 | [2574-left-and-right-sum-differences](https://github.com/vanshika-CG/dsa/tree/main/2574-left-and-right-sum-differences/) | Easy |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/vanshika-CG/dsa/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
+| [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/vanshika-CG/dsa/tree/main/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/vanshika-CG/dsa/tree/main/3070-count-submatrices-with-top-left-element-and-sum-less-than-k/) | Medium |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/vanshika-CG/dsa/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3689-maximum-total-subarray-value-i](https://github.com/vanshika-CG/dsa/tree/main/3689-maximum-total-subarray-value-i/) | Medium |
@@ -411,6 +413,7 @@ This repository is a collection of Data Structures and Algorithms problems solve
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0845-longest-mountain-in-array](https://github.com/vanshika-CG/dsa/tree/main/0845-longest-mountain-in-array/) | Medium |
+| [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/vanshika-CG/dsa/tree/main/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/vanshika-CG/dsa/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
