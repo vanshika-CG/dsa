@@ -81,6 +81,7 @@ This repository is a collection of Data Structures and Algorithms problems solve
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/vanshika-CG/dsa/tree/main/1758-minimum-changes-to-make-alternating-binary-string/) | Easy |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/vanshika-CG/dsa/tree/main/1784-check-if-binary-string-has-at-most-one-segment-of-ones/) | Easy |
 | [1869-longer-contiguous-segments-of-ones-than-zeros](https://github.com/vanshika-CG/dsa/tree/main/1869-longer-contiguous-segments-of-ones-than-zeros/) | Easy |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/vanshika-CG/dsa/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [1980-find-unique-binary-string](https://github.com/vanshika-CG/dsa/tree/main/1980-find-unique-binary-string/) | Medium |
 | [2129-capitalize-the-title](https://github.com/vanshika-CG/dsa/tree/main/2129-capitalize-the-title/) | Easy |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/vanshika-CG/dsa/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
@@ -168,6 +169,7 @@ This repository is a collection of Data Structures and Algorithms problems solve
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/vanshika-CG/dsa/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 | [1848-minimum-distance-to-the-target-element](https://github.com/vanshika-CG/dsa/tree/main/1848-minimum-distance-to-the-target-element/) | Easy |
 | [1929-concatenation-of-array](https://github.com/vanshika-CG/dsa/tree/main/1929-concatenation-of-array/) | Easy |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/vanshika-CG/dsa/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [1980-find-unique-binary-string](https://github.com/vanshika-CG/dsa/tree/main/1980-find-unique-binary-string/) | Medium |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/vanshika-CG/dsa/tree/main/1984-minimum-difference-between-highest-and-lowest-of-k-scores/) | Easy |
 | [2090-k-radius-subarray-averages](https://github.com/vanshika-CG/dsa/tree/main/2090-k-radius-subarray-averages/) | Medium |
