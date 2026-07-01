@@ -2,32 +2,31 @@ class Solution {
 public:
     string convert(string s, int numRows) {
 
-        if (numRows == 1)
-            return s;
-
+        if(numRows == 1) return s;
+        
         int n = s.size();
+        int m = 0;
         vector<string> ans(numRows);
-        bool isdown = false;
-        int i = 0;
-        int r = 0;
 
-        while (i < n) {
-            ans[r] += s[i];
-            if (r == 0 || r == numRows - 1)
+        bool isdown = false;
+
+        for (int i = 0; i < n; i++) {
+            ans[m] += s[i];
+
+            if (m == numRows - 1 || m == 0)
                 isdown = !isdown;
 
-            if (isdown) {
-                r++;
-            } else
-                r--;
-            i++;
+            if (isdown)
+                m++;
+            else
+                m--;
         }
 
-        string t = "";
+        string res = "";
 
-        for (string c : ans)
-            t += c;
+        for (string t : ans)
+            res += t;
 
-        return t;
+        return res;
     }
 };
