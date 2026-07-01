@@ -133,6 +133,7 @@ This repository is a collection of Data Structures and Algorithms problems solve
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/vanshika-CG/dsa/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 | [0088-merge-sorted-array](https://github.com/vanshika-CG/dsa/tree/main/0088-merge-sorted-array/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/vanshika-CG/dsa/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/vanshika-CG/dsa/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/vanshika-CG/dsa/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0162-find-peak-element](https://github.com/vanshika-CG/dsa/tree/main/0162-find-peak-element/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/vanshika-CG/dsa/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
@@ -377,6 +378,7 @@ This repository is a collection of Data Structures and Algorithms problems solve
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/vanshika-CG/dsa/tree/main/0011-container-with-most-water/) | Medium |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/vanshika-CG/dsa/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0680-valid-palindrome-ii](https://github.com/vanshika-CG/dsa/tree/main/0680-valid-palindrome-ii/) | Easy |
 | [0881-boats-to-save-people](https://github.com/vanshika-CG/dsa/tree/main/0881-boats-to-save-people/) | Medium |
 | [0948-bag-of-tokens](https://github.com/vanshika-CG/dsa/tree/main/0948-bag-of-tokens/) | Medium |
@@ -417,6 +419,7 @@ This repository is a collection of Data Structures and Algorithms problems solve
 | [0005-longest-palindromic-substring](https://github.com/vanshika-CG/dsa/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0053-maximum-subarray](https://github.com/vanshika-CG/dsa/tree/main/0053-maximum-subarray/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/vanshika-CG/dsa/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/vanshika-CG/dsa/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0279-perfect-squares](https://github.com/vanshika-CG/dsa/tree/main/0279-perfect-squares/) | Medium |
 | [0392-is-subsequence](https://github.com/vanshika-CG/dsa/tree/main/0392-is-subsequence/) | Easy |
 | [0845-longest-mountain-in-array](https://github.com/vanshika-CG/dsa/tree/main/0845-longest-mountain-in-array/) | Medium |
