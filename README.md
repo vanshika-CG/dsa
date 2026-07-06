@@ -45,6 +45,7 @@ This repository is a collection of Data Structures and Algorithms problems solve
 | [0720-longest-word-in-dictionary](https://github.com/vanshika-CG/dsa/tree/main/0720-longest-word-in-dictionary/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/vanshika-CG/dsa/tree/main/0904-fruit-into-baskets/) | Medium |
 | [0930-binary-subarrays-with-sum](https://github.com/vanshika-CG/dsa/tree/main/0930-binary-subarrays-with-sum/) | Medium |
+| [0992-subarrays-with-k-different-integers](https://github.com/vanshika-CG/dsa/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
 | [1189-maximum-number-of-balloons](https://github.com/vanshika-CG/dsa/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1248-count-number-of-nice-subarrays](https://github.com/vanshika-CG/dsa/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1346-check-if-n-and-its-double-exist](https://github.com/vanshika-CG/dsa/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
@@ -107,6 +108,7 @@ This repository is a collection of Data Structures and Algorithms problems solve
 | [0643-maximum-average-subarray-i](https://github.com/vanshika-CG/dsa/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0904-fruit-into-baskets](https://github.com/vanshika-CG/dsa/tree/main/0904-fruit-into-baskets/) | Medium |
 | [0930-binary-subarrays-with-sum](https://github.com/vanshika-CG/dsa/tree/main/0930-binary-subarrays-with-sum/) | Medium |
+| [0992-subarrays-with-k-different-integers](https://github.com/vanshika-CG/dsa/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
 | [1004-max-consecutive-ones-iii](https://github.com/vanshika-CG/dsa/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1248-count-number-of-nice-subarrays](https://github.com/vanshika-CG/dsa/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/vanshika-CG/dsa/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
@@ -170,6 +172,7 @@ This repository is a collection of Data Structures and Algorithms problems solve
 | [0948-bag-of-tokens](https://github.com/vanshika-CG/dsa/tree/main/0948-bag-of-tokens/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/vanshika-CG/dsa/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/vanshika-CG/dsa/tree/main/0977-squares-of-a-sorted-array/) | Easy |
+| [0992-subarrays-with-k-different-integers](https://github.com/vanshika-CG/dsa/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
 | [1004-max-consecutive-ones-iii](https://github.com/vanshika-CG/dsa/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1046-last-stone-weight](https://github.com/vanshika-CG/dsa/tree/main/1046-last-stone-weight/) | Easy |
 | [1248-count-number-of-nice-subarrays](https://github.com/vanshika-CG/dsa/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
@@ -474,6 +477,7 @@ This repository is a collection of Data Structures and Algorithms problems solve
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/vanshika-CG/dsa/tree/main/0387-first-unique-character-in-a-string/) | Easy |
+| [0992-subarrays-with-k-different-integers](https://github.com/vanshika-CG/dsa/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
 | [1189-maximum-number-of-balloons](https://github.com/vanshika-CG/dsa/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/vanshika-CG/dsa/tree/main/2529-maximum-count-of-positive-integer-and-negative-integer/) | Easy |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/vanshika-CG/dsa/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
