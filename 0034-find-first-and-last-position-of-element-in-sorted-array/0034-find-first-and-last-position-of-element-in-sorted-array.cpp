@@ -1,15 +1,15 @@
 class Solution {
 public:
     vector<int> searchRange(vector<int>& nums, int target) {
-        int left = binary(nums, target, true);
-        int right = binary(nums, target, false);
-        return {left, right};
+        int l = search(nums, target, true);
+        int r = search(nums, target, false);
+
+        return {l, r};
     }
 
-private:
-    int binary(vector<int>& nums, int target, bool isleft) {
-        int l = 0, r = nums.size() - 1;
+    int search(vector<int>& nums, int target, bool isleft) {
         int ans = -1;
+        int l = 0, r = nums.size() - 1;
 
         while (l <= r) {
             int mid = l + (r - l) / 2;
