@@ -17,11 +17,10 @@ public:
             fast = fast->next->next;
 
             if (slow == fast) {
-                fast = head;
-
-                while (fast != slow) {
-                    fast = fast->next;
+                slow = head;
+                while (slow != fast) {
                     slow = slow->next;
+                    fast = fast->next;
                 }
                 return slow;
             }
