@@ -231,6 +231,7 @@ This repository is a collection of Data Structures and Algorithms problems solve
 | [0125-valid-palindrome](https://github.com/vanshika-CG/dsa/tree/main/0125-valid-palindrome/) | Easy |
 | [0141-linked-list-cycle](https://github.com/vanshika-CG/dsa/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/vanshika-CG/dsa/tree/main/0142-linked-list-cycle-ii/) | Medium |
+| [0148-sort-list](https://github.com/vanshika-CG/dsa/tree/main/0148-sort-list/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/vanshika-CG/dsa/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/vanshika-CG/dsa/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0189-rotate-array](https://github.com/vanshika-CG/dsa/tree/main/0189-rotate-array/) | Medium |
@@ -266,6 +267,7 @@ This repository is a collection of Data Structures and Algorithms problems solve
 | [0056-merge-intervals](https://github.com/vanshika-CG/dsa/tree/main/0056-merge-intervals/) | Medium |
 | [0075-sort-colors](https://github.com/vanshika-CG/dsa/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/vanshika-CG/dsa/tree/main/0088-merge-sorted-array/) | Easy |
+| [0148-sort-list](https://github.com/vanshika-CG/dsa/tree/main/0148-sort-list/) | Medium |
 | [0242-valid-anagram](https://github.com/vanshika-CG/dsa/tree/main/0242-valid-anagram/) | Easy |
 | [0506-relative-ranks](https://github.com/vanshika-CG/dsa/tree/main/0506-relative-ranks/) | Easy |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/vanshika-CG/dsa/tree/main/0524-longest-word-in-dictionary-through-deleting/) | Medium |
@@ -383,6 +385,7 @@ This repository is a collection of Data Structures and Algorithms problems solve
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/vanshika-CG/dsa/tree/main/0053-maximum-subarray/) | Medium |
+| [0148-sort-list](https://github.com/vanshika-CG/dsa/tree/main/0148-sort-list/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/vanshika-CG/dsa/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/vanshika-CG/dsa/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/vanshika-CG/dsa/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
@@ -432,6 +435,7 @@ This repository is a collection of Data Structures and Algorithms problems solve
 | [0083-remove-duplicates-from-sorted-list](https://github.com/vanshika-CG/dsa/tree/main/0083-remove-duplicates-from-sorted-list/) | Easy |
 | [0141-linked-list-cycle](https://github.com/vanshika-CG/dsa/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/vanshika-CG/dsa/tree/main/0142-linked-list-cycle-ii/) | Medium |
+| [0148-sort-list](https://github.com/vanshika-CG/dsa/tree/main/0148-sort-list/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/vanshika-CG/dsa/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0206-reverse-linked-list](https://github.com/vanshika-CG/dsa/tree/main/0206-reverse-linked-list/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/vanshika-CG/dsa/tree/main/0234-palindrome-linked-list/) | Easy |
@@ -511,6 +515,7 @@ This repository is a collection of Data Structures and Algorithms problems solve
 ## Merge Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0148-sort-list](https://github.com/vanshika-CG/dsa/tree/main/0148-sort-list/) | Medium |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/vanshika-CG/dsa/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 ## Queue
 | Problem Name | Difficulty |
