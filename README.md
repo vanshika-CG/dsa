@@ -305,6 +305,7 @@ This repository is a collection of Data Structures and Algorithms problems solve
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/vanshika-CG/dsa/tree/main/0023-merge-k-sorted-lists/) | Hard |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/vanshika-CG/dsa/tree/main/0373-find-k-pairs-with-smallest-sums/) | Medium |
 | [0506-relative-ranks](https://github.com/vanshika-CG/dsa/tree/main/0506-relative-ranks/) | Easy |
 | [0912-sort-an-array](https://github.com/vanshika-CG/dsa/tree/main/0912-sort-an-array/) | Medium |
@@ -387,6 +388,7 @@ This repository is a collection of Data Structures and Algorithms problems solve
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/vanshika-CG/dsa/tree/main/0023-merge-k-sorted-lists/) | Hard |
 | [0053-maximum-subarray](https://github.com/vanshika-CG/dsa/tree/main/0053-maximum-subarray/) | Medium |
 | [0148-sort-list](https://github.com/vanshika-CG/dsa/tree/main/0148-sort-list/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/vanshika-CG/dsa/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
@@ -436,6 +438,7 @@ This repository is a collection of Data Structures and Algorithms problems solve
 | [0002-add-two-numbers](https://github.com/vanshika-CG/dsa/tree/main/0002-add-two-numbers/) | Medium |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/vanshika-CG/dsa/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0021-merge-two-sorted-lists](https://github.com/vanshika-CG/dsa/tree/main/0021-merge-two-sorted-lists/) | Easy |
+| [0023-merge-k-sorted-lists](https://github.com/vanshika-CG/dsa/tree/main/0023-merge-k-sorted-lists/) | Hard |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/vanshika-CG/dsa/tree/main/0083-remove-duplicates-from-sorted-list/) | Easy |
 | [0141-linked-list-cycle](https://github.com/vanshika-CG/dsa/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/vanshika-CG/dsa/tree/main/0142-linked-list-cycle-ii/) | Medium |
@@ -519,6 +522,7 @@ This repository is a collection of Data Structures and Algorithms problems solve
 ## Merge Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/vanshika-CG/dsa/tree/main/0023-merge-k-sorted-lists/) | Hard |
 | [0148-sort-list](https://github.com/vanshika-CG/dsa/tree/main/0148-sort-list/) | Medium |
 | [0912-sort-an-array](https://github.com/vanshika-CG/dsa/tree/main/0912-sort-an-array/) | Medium |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/vanshika-CG/dsa/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
