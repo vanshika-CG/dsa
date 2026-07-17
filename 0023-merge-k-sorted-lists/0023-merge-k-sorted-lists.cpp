@@ -36,24 +36,19 @@ public:
     ListNode* divide(vector<ListNode*>& lists, int l, int r) {
         if (l > r)
             return nullptr;
-
         if (l == r)
             return lists[l];
 
         int mid = l + (r - l) / 2;
 
-        // right
-        ListNode* right = divide(lists, mid + 1, r);
-
-        // left
         ListNode* left = divide(lists, l, mid);
+
+        ListNode* right = divide(lists, mid + 1, r);
 
         return merge(left, right);
     }
 
     ListNode* mergeKLists(vector<ListNode*>& lists) {
-        if (lists.empty())
-            return nullptr;
 
         return divide(lists, 0, lists.size() - 1);
     }
