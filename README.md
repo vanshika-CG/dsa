@@ -302,12 +302,14 @@ This repository is a collection of Data Structures and Algorithms problems solve
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0676-implement-magic-dictionary](https://github.com/vanshika-CG/dsa/tree/main/0676-implement-magic-dictionary/) | Medium |
+| [0703-kth-largest-element-in-a-stream](https://github.com/vanshika-CG/dsa/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/vanshika-CG/dsa/tree/main/0023-merge-k-sorted-lists/) | Hard |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/vanshika-CG/dsa/tree/main/0373-find-k-pairs-with-smallest-sums/) | Medium |
 | [0506-relative-ranks](https://github.com/vanshika-CG/dsa/tree/main/0506-relative-ranks/) | Easy |
+| [0703-kth-largest-element-in-a-stream](https://github.com/vanshika-CG/dsa/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 | [0912-sort-an-array](https://github.com/vanshika-CG/dsa/tree/main/0912-sort-an-array/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/vanshika-CG/dsa/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [1046-last-stone-weight](https://github.com/vanshika-CG/dsa/tree/main/1046-last-stone-weight/) | Easy |
@@ -509,11 +511,13 @@ This repository is a collection of Data Structures and Algorithms problems solve
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0703-kth-largest-element-in-a-stream](https://github.com/vanshika-CG/dsa/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 | [2196-create-binary-tree-from-descriptions](https://github.com/vanshika-CG/dsa/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/vanshika-CG/dsa/tree/main/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0703-kth-largest-element-in-a-stream](https://github.com/vanshika-CG/dsa/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 | [2196-create-binary-tree-from-descriptions](https://github.com/vanshika-CG/dsa/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 ## Segment Tree
 | Problem Name | Difficulty |
@@ -542,4 +546,12 @@ This repository is a collection of Data Structures and Algorithms problems solve
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0912-sort-an-array](https://github.com/vanshika-CG/dsa/tree/main/0912-sort-an-array/) | Medium |
+## Binary Search Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0703-kth-largest-element-in-a-stream](https://github.com/vanshika-CG/dsa/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
+## Data Stream
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0703-kth-largest-element-in-a-stream](https://github.com/vanshika-CG/dsa/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 <!---LeetCode Topics End-->
