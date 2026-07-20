@@ -3,24 +3,24 @@ public:
     vector<int> findAnagrams(string s, string p) {
         int n = s.size();
         int m = p.size();
+        vector<int> freq1(26 , 0);
+        vector<int> freq2(26 , 0);
+        int j = 0;
+
         vector<int> ans;
 
-        vector<int> t(26, 0);
-        vector<int> q(26, 0);
+        for(char c : p) freq2[c - 'a']++;
 
-        for (char c : p)
-            t[c - 'a']++;
+        for(int i = 0 ; i < n ; i++){
+            freq1[s[i] - 'a']++;
 
-        for (int i = 0; i < n; i++) {
-            q[s[i] - 'a']++;
+            while(i - j + 1 > m){
+                freq1[s[j] - 'a']--;
+                j++;
+            }
 
-            if (i >= m)
-                q[s[i - m] - 'a']--;
-
-            if (t == q)
-                ans.push_back(i - m + 1);
-                
+            if(freq1 == freq2) ans.push_back( i - m + 1);
         }
-        return ans;
+    return ans;
     }
 };
