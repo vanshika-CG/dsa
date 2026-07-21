@@ -1,19 +1,25 @@
 class Solution {
 public:
     int lastStoneWeight(vector<int>& stones) {
-        priority_queue<int> p;
+        priority_queue<int> h;
 
-        for (int s : stones)
-            p.push(s);
+        for (int x : stones)
+            h.push(x);
 
-        while (p.size() > 1) {
-            int y = p.top();
-            p.pop();
-            int x = p.top();
-            p.pop();
-            if (x != y)
-                p.push(y - x);
+        while (h.size() > 1) {
+            int t = h.top();
+            h.pop();
+
+            if (h.top() != t) {
+                t = t - h.top();
+                h.pop();
+                h.push(t);
+            } else {
+                h.pop();
+            }
         }
-        return p.empty() ? 0 : p.top();
+        if (h.empty())
+            return 0;
+        return h.top();
     }
 };
