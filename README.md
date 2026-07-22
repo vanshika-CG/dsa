@@ -37,6 +37,7 @@ This repository is a collection of Data Structures and Algorithms problems solve
 | [0160-intersection-of-two-linked-lists](https://github.com/vanshika-CG/dsa/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0202-happy-number](https://github.com/vanshika-CG/dsa/tree/main/0202-happy-number/) | Easy |
 | [0242-valid-anagram](https://github.com/vanshika-CG/dsa/tree/main/0242-valid-anagram/) | Easy |
+| [0347-top-k-frequent-elements](https://github.com/vanshika-CG/dsa/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0387-first-unique-character-in-a-string](https://github.com/vanshika-CG/dsa/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0424-longest-repeating-character-replacement](https://github.com/vanshika-CG/dsa/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0438-find-all-anagrams-in-a-string](https://github.com/vanshika-CG/dsa/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
@@ -157,6 +158,7 @@ This repository is a collection of Data Structures and Algorithms problems solve
 | [0240-search-a-2d-matrix-ii](https://github.com/vanshika-CG/dsa/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0283-move-zeroes](https://github.com/vanshika-CG/dsa/tree/main/0283-move-zeroes/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/vanshika-CG/dsa/tree/main/0287-find-the-duplicate-number/) | Medium |
+| [0347-top-k-frequent-elements](https://github.com/vanshika-CG/dsa/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/vanshika-CG/dsa/tree/main/0373-find-k-pairs-with-smallest-sums/) | Medium |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/vanshika-CG/dsa/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/vanshika-CG/dsa/tree/main/0485-max-consecutive-ones/) | Easy |
@@ -272,6 +274,7 @@ This repository is a collection of Data Structures and Algorithms problems solve
 | [0148-sort-list](https://github.com/vanshika-CG/dsa/tree/main/0148-sort-list/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/vanshika-CG/dsa/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0242-valid-anagram](https://github.com/vanshika-CG/dsa/tree/main/0242-valid-anagram/) | Easy |
+| [0347-top-k-frequent-elements](https://github.com/vanshika-CG/dsa/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0506-relative-ranks](https://github.com/vanshika-CG/dsa/tree/main/0506-relative-ranks/) | Easy |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/vanshika-CG/dsa/tree/main/0524-longest-word-in-dictionary-through-deleting/) | Medium |
 | [0720-longest-word-in-dictionary](https://github.com/vanshika-CG/dsa/tree/main/0720-longest-word-in-dictionary/) | Medium |
@@ -310,6 +313,7 @@ This repository is a collection of Data Structures and Algorithms problems solve
 | ------- | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/vanshika-CG/dsa/tree/main/0023-merge-k-sorted-lists/) | Hard |
 | [0215-kth-largest-element-in-an-array](https://github.com/vanshika-CG/dsa/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+| [0347-top-k-frequent-elements](https://github.com/vanshika-CG/dsa/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/vanshika-CG/dsa/tree/main/0373-find-k-pairs-with-smallest-sums/) | Medium |
 | [0506-relative-ranks](https://github.com/vanshika-CG/dsa/tree/main/0506-relative-ranks/) | Easy |
 | [0703-kth-largest-element-in-a-stream](https://github.com/vanshika-CG/dsa/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
@@ -398,6 +402,7 @@ This repository is a collection of Data Structures and Algorithms problems solve
 | [0148-sort-list](https://github.com/vanshika-CG/dsa/tree/main/0148-sort-list/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/vanshika-CG/dsa/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/vanshika-CG/dsa/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
+| [0347-top-k-frequent-elements](https://github.com/vanshika-CG/dsa/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0912-sort-an-array](https://github.com/vanshika-CG/dsa/tree/main/0912-sort-an-array/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/vanshika-CG/dsa/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/vanshika-CG/dsa/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
@@ -409,6 +414,7 @@ This repository is a collection of Data Structures and Algorithms problems solve
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/vanshika-CG/dsa/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+| [0347-top-k-frequent-elements](https://github.com/vanshika-CG/dsa/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/vanshika-CG/dsa/tree/main/0973-k-closest-points-to-origin/) | Medium |
 ## Interactive
 | Problem Name | Difficulty |
@@ -504,6 +510,7 @@ This repository is a collection of Data Structures and Algorithms problems solve
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0347-top-k-frequent-elements](https://github.com/vanshika-CG/dsa/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0387-first-unique-character-in-a-string](https://github.com/vanshika-CG/dsa/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0992-subarrays-with-k-different-integers](https://github.com/vanshika-CG/dsa/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
 | [1189-maximum-number-of-balloons](https://github.com/vanshika-CG/dsa/tree/main/1189-maximum-number-of-balloons/) | Easy |
@@ -542,6 +549,7 @@ This repository is a collection of Data Structures and Algorithms problems solve
 ## Bucket Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0347-top-k-frequent-elements](https://github.com/vanshika-CG/dsa/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0912-sort-an-array](https://github.com/vanshika-CG/dsa/tree/main/0912-sort-an-array/) | Medium |
 ## Radix Sort
 | Problem Name | Difficulty |
