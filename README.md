@@ -73,6 +73,7 @@ This repository is a collection of Data Structures and Algorithms problems solve
 | [0038-count-and-say](https://github.com/vanshika-CG/dsa/tree/main/0038-count-and-say/) | Medium |
 | [0076-minimum-window-substring](https://github.com/vanshika-CG/dsa/tree/main/0076-minimum-window-substring/) | Hard |
 | [0125-valid-palindrome](https://github.com/vanshika-CG/dsa/tree/main/0125-valid-palindrome/) | Easy |
+| [0151-reverse-words-in-a-string](https://github.com/vanshika-CG/dsa/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0242-valid-anagram](https://github.com/vanshika-CG/dsa/tree/main/0242-valid-anagram/) | Easy |
 | [0345-reverse-vowels-of-a-string](https://github.com/vanshika-CG/dsa/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/vanshika-CG/dsa/tree/main/0387-first-unique-character-in-a-string/) | Easy |
@@ -240,6 +241,7 @@ This repository is a collection of Data Structures and Algorithms problems solve
 | [0141-linked-list-cycle](https://github.com/vanshika-CG/dsa/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/vanshika-CG/dsa/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0148-sort-list](https://github.com/vanshika-CG/dsa/tree/main/0148-sort-list/) | Medium |
+| [0151-reverse-words-in-a-string](https://github.com/vanshika-CG/dsa/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/vanshika-CG/dsa/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/vanshika-CG/dsa/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0189-rotate-array](https://github.com/vanshika-CG/dsa/tree/main/0189-rotate-array/) | Medium |
