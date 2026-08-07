@@ -70,6 +70,7 @@ This repository is a collection of Data Structures and Algorithms problems solve
 | [0012-integer-to-roman](https://github.com/vanshika-CG/dsa/tree/main/0012-integer-to-roman/) | Medium |
 | [0014-longest-common-prefix](https://github.com/vanshika-CG/dsa/tree/main/0014-longest-common-prefix/) | Easy |
 | [0020-valid-parentheses](https://github.com/vanshika-CG/dsa/tree/main/0020-valid-parentheses/) | Easy |
+| [0038-count-and-say](https://github.com/vanshika-CG/dsa/tree/main/0038-count-and-say/) | Medium |
 | [0076-minimum-window-substring](https://github.com/vanshika-CG/dsa/tree/main/0076-minimum-window-substring/) | Hard |
 | [0125-valid-palindrome](https://github.com/vanshika-CG/dsa/tree/main/0125-valid-palindrome/) | Easy |
 | [0242-valid-anagram](https://github.com/vanshika-CG/dsa/tree/main/0242-valid-anagram/) | Easy |
