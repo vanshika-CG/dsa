@@ -96,6 +96,7 @@ This repository is a collection of Data Structures and Algorithms problems solve
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/vanshika-CG/dsa/tree/main/1758-minimum-changes-to-make-alternating-binary-string/) | Easy |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/vanshika-CG/dsa/tree/main/1784-check-if-binary-string-has-at-most-one-segment-of-ones/) | Easy |
 | [1869-longer-contiguous-segments-of-ones-than-zeros](https://github.com/vanshika-CG/dsa/tree/main/1869-longer-contiguous-segments-of-ones-than-zeros/) | Easy |
+| [1903-largest-odd-number-in-string](https://github.com/vanshika-CG/dsa/tree/main/1903-largest-odd-number-in-string/) | Easy |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/vanshika-CG/dsa/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [1980-find-unique-binary-string](https://github.com/vanshika-CG/dsa/tree/main/1980-find-unique-binary-string/) | Medium |
 | [2129-capitalize-the-title](https://github.com/vanshika-CG/dsa/tree/main/2129-capitalize-the-title/) | Easy |
@@ -399,6 +400,7 @@ This repository is a collection of Data Structures and Algorithms problems solve
 | [0973-k-closest-points-to-origin](https://github.com/vanshika-CG/dsa/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [1248-count-number-of-nice-subarrays](https://github.com/vanshika-CG/dsa/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1492-the-kth-factor-of-n](https://github.com/vanshika-CG/dsa/tree/main/1492-the-kth-factor-of-n/) | Medium |
+| [1903-largest-odd-number-in-string](https://github.com/vanshika-CG/dsa/tree/main/1903-largest-odd-number-in-string/) | Easy |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/vanshika-CG/dsa/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/vanshika-CG/dsa/tree/main/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/vanshika-CG/dsa/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
@@ -441,6 +443,7 @@ This repository is a collection of Data Structures and Algorithms problems solve
 | [0948-bag-of-tokens](https://github.com/vanshika-CG/dsa/tree/main/0948-bag-of-tokens/) | Medium |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/vanshika-CG/dsa/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/vanshika-CG/dsa/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
+| [1903-largest-odd-number-in-string](https://github.com/vanshika-CG/dsa/tree/main/1903-largest-odd-number-in-string/) | Easy |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/vanshika-CG/dsa/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [3689-maximum-total-subarray-value-i](https://github.com/vanshika-CG/dsa/tree/main/3689-maximum-total-subarray-value-i/) | Medium |
 ## Prefix Sum
