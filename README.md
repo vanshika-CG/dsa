@@ -316,6 +316,7 @@ This repository is a collection of Data Structures and Algorithms problems solve
 | ------- | ------- |
 | [0676-implement-magic-dictionary](https://github.com/vanshika-CG/dsa/tree/main/0676-implement-magic-dictionary/) | Medium |
 | [0703-kth-largest-element-in-a-stream](https://github.com/vanshika-CG/dsa/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
+| [0707-design-linked-list](https://github.com/vanshika-CG/dsa/tree/main/0707-design-linked-list/) | Medium |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -470,6 +471,7 @@ This repository is a collection of Data Structures and Algorithms problems solve
 | [0234-palindrome-linked-list](https://github.com/vanshika-CG/dsa/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0237-delete-node-in-a-linked-list](https://github.com/vanshika-CG/dsa/tree/main/0237-delete-node-in-a-linked-list/) | Medium |
 | [0328-odd-even-linked-list](https://github.com/vanshika-CG/dsa/tree/main/0328-odd-even-linked-list/) | Medium |
+| [0707-design-linked-list](https://github.com/vanshika-CG/dsa/tree/main/0707-design-linked-list/) | Medium |
 | [0876-middle-of-the-linked-list](https://github.com/vanshika-CG/dsa/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/vanshika-CG/dsa/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 ## Recursion
