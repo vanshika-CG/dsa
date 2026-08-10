@@ -14,7 +14,8 @@ public:
         int ans = 0;
 
         while (head) {
-            ans = (ans * 2) + head->val;
+            ans = ans << 1;
+            ans = ans | head->val;
             head = head->next;
         }
 
