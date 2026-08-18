@@ -188,6 +188,7 @@ This repository is a collection of Data Structures and Algorithms problems solve
 | [0905-sort-array-by-parity](https://github.com/vanshika-CG/dsa/tree/main/0905-sort-array-by-parity/) | Easy |
 | [0912-sort-an-array](https://github.com/vanshika-CG/dsa/tree/main/0912-sort-an-array/) | Medium |
 | [0930-binary-subarrays-with-sum](https://github.com/vanshika-CG/dsa/tree/main/0930-binary-subarrays-with-sum/) | Medium |
+| [0945-minimum-increment-to-make-array-unique](https://github.com/vanshika-CG/dsa/tree/main/0945-minimum-increment-to-make-array-unique/) | Medium |
 | [0948-bag-of-tokens](https://github.com/vanshika-CG/dsa/tree/main/0948-bag-of-tokens/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/vanshika-CG/dsa/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/vanshika-CG/dsa/tree/main/0977-squares-of-a-sorted-array/) | Easy |
@@ -296,6 +297,7 @@ This repository is a collection of Data Structures and Algorithms problems solve
 | [0881-boats-to-save-people](https://github.com/vanshika-CG/dsa/tree/main/0881-boats-to-save-people/) | Medium |
 | [0905-sort-array-by-parity](https://github.com/vanshika-CG/dsa/tree/main/0905-sort-array-by-parity/) | Easy |
 | [0912-sort-an-array](https://github.com/vanshika-CG/dsa/tree/main/0912-sort-an-array/) | Medium |
+| [0945-minimum-increment-to-make-array-unique](https://github.com/vanshika-CG/dsa/tree/main/0945-minimum-increment-to-make-array-unique/) | Medium |
 | [0948-bag-of-tokens](https://github.com/vanshika-CG/dsa/tree/main/0948-bag-of-tokens/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/vanshika-CG/dsa/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/vanshika-CG/dsa/tree/main/0977-squares-of-a-sorted-array/) | Easy |
@@ -459,6 +461,7 @@ This repository is a collection of Data Structures and Algorithms problems solve
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/vanshika-CG/dsa/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0680-valid-palindrome-ii](https://github.com/vanshika-CG/dsa/tree/main/0680-valid-palindrome-ii/) | Easy |
 | [0881-boats-to-save-people](https://github.com/vanshika-CG/dsa/tree/main/0881-boats-to-save-people/) | Medium |
+| [0945-minimum-increment-to-make-array-unique](https://github.com/vanshika-CG/dsa/tree/main/0945-minimum-increment-to-make-array-unique/) | Medium |
 | [0948-bag-of-tokens](https://github.com/vanshika-CG/dsa/tree/main/0948-bag-of-tokens/) | Medium |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/vanshika-CG/dsa/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/vanshika-CG/dsa/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
@@ -556,6 +559,7 @@ This repository is a collection of Data Structures and Algorithms problems solve
 | [0387-first-unique-character-in-a-string](https://github.com/vanshika-CG/dsa/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0451-sort-characters-by-frequency](https://github.com/vanshika-CG/dsa/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/vanshika-CG/dsa/tree/main/0692-top-k-frequent-words/) | Medium |
+| [0945-minimum-increment-to-make-array-unique](https://github.com/vanshika-CG/dsa/tree/main/0945-minimum-increment-to-make-array-unique/) | Medium |
 | [0992-subarrays-with-k-different-integers](https://github.com/vanshika-CG/dsa/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
 | [1189-maximum-number-of-balloons](https://github.com/vanshika-CG/dsa/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/vanshika-CG/dsa/tree/main/2529-maximum-count-of-positive-integer-and-negative-integer/) | Easy |
