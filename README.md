@@ -78,6 +78,7 @@ This repository is a collection of Data Structures and Algorithms problems solve
 | [0151-reverse-words-in-a-string](https://github.com/vanshika-CG/dsa/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0205-isomorphic-strings](https://github.com/vanshika-CG/dsa/tree/main/0205-isomorphic-strings/) | Easy |
 | [0242-valid-anagram](https://github.com/vanshika-CG/dsa/tree/main/0242-valid-anagram/) | Easy |
+| [0257-binary-tree-paths](https://github.com/vanshika-CG/dsa/tree/main/0257-binary-tree-paths/) | Easy |
 | [0345-reverse-vowels-of-a-string](https://github.com/vanshika-CG/dsa/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/vanshika-CG/dsa/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0392-is-subsequence](https://github.com/vanshika-CG/dsa/tree/main/0392-is-subsequence/) | Easy |
@@ -327,6 +328,7 @@ This repository is a collection of Data Structures and Algorithms problems solve
 | [0145-binary-tree-postorder-traversal](https://github.com/vanshika-CG/dsa/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0199-binary-tree-right-side-view](https://github.com/vanshika-CG/dsa/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/vanshika-CG/dsa/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
+| [0257-binary-tree-paths](https://github.com/vanshika-CG/dsa/tree/main/0257-binary-tree-paths/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/vanshika-CG/dsa/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0572-subtree-of-another-tree](https://github.com/vanshika-CG/dsa/tree/main/0572-subtree-of-another-tree/) | Easy |
 | [0676-implement-magic-dictionary](https://github.com/vanshika-CG/dsa/tree/main/0676-implement-magic-dictionary/) | Medium |
@@ -395,6 +397,7 @@ This repository is a collection of Data Structures and Algorithms problems solve
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0039-combination-sum](https://github.com/vanshika-CG/dsa/tree/main/0039-combination-sum/) | Medium |
+| [0257-binary-tree-paths](https://github.com/vanshika-CG/dsa/tree/main/0257-binary-tree-paths/) | Easy |
 | [1980-find-unique-binary-string](https://github.com/vanshika-CG/dsa/tree/main/1980-find-unique-binary-string/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
@@ -580,6 +583,7 @@ This repository is a collection of Data Structures and Algorithms problems solve
 | [0145-binary-tree-postorder-traversal](https://github.com/vanshika-CG/dsa/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0199-binary-tree-right-side-view](https://github.com/vanshika-CG/dsa/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/vanshika-CG/dsa/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
+| [0257-binary-tree-paths](https://github.com/vanshika-CG/dsa/tree/main/0257-binary-tree-paths/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/vanshika-CG/dsa/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0572-subtree-of-another-tree](https://github.com/vanshika-CG/dsa/tree/main/0572-subtree-of-another-tree/) | Easy |
 | [0703-kth-largest-element-in-a-stream](https://github.com/vanshika-CG/dsa/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
@@ -597,6 +601,7 @@ This repository is a collection of Data Structures and Algorithms problems solve
 | [0145-binary-tree-postorder-traversal](https://github.com/vanshika-CG/dsa/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0199-binary-tree-right-side-view](https://github.com/vanshika-CG/dsa/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/vanshika-CG/dsa/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
+| [0257-binary-tree-paths](https://github.com/vanshika-CG/dsa/tree/main/0257-binary-tree-paths/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/vanshika-CG/dsa/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0572-subtree-of-another-tree](https://github.com/vanshika-CG/dsa/tree/main/0572-subtree-of-another-tree/) | Easy |
 | [0703-kth-largest-element-in-a-stream](https://github.com/vanshika-CG/dsa/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
