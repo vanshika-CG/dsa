@@ -12,7 +12,7 @@
  */
 class Solution {
 public:
-    bool isSame(TreeNode* p, TreeNode* q) {
+    bool same(TreeNode* p, TreeNode* q) {
         if (!p && !q)
             return true;
         if (!p || !q)
@@ -21,20 +21,22 @@ public:
         if (p->val != q->val)
             return false;
 
-        int l = isSame(p->left, q->left);
-        int r = isSame(p->right, q->right);
+        int l = same(p->left, q->left);
+        int r = same(p->right, q->right);
 
         return l && r;
     }
 
     bool isSubtree(TreeNode* root, TreeNode* subRoot) {
+
         if (!root && !subRoot)
             return true;
         if (!root || !subRoot)
             return false;
 
-        if (root->val == subRoot->val && isSame(root, subRoot))
+        if (root->val == subRoot->val && same(root, subRoot)) {
             return true;
+        }
 
         int l = isSubtree(root->left, subRoot);
         int r = isSubtree(root->right, subRoot);
