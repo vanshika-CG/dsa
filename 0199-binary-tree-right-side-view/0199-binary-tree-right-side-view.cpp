@@ -17,6 +17,7 @@ public:
     void level(TreeNode* root) {
         if (!root)
             return;
+
         queue<pair<TreeNode*, int>> q;
         q.push({root, 0});
 
