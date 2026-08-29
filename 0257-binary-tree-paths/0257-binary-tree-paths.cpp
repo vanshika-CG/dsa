@@ -12,28 +12,25 @@
  */
 class Solution {
 public:
-    void allpath(TreeNode* root, string path, vector<string>& ans) {
+    void allpath(TreeNode* root, vector<string>& ans, string p) {
 
         if (!root->left && !root->right) {
-            ans.push_back(path);
+            ans.push_back(p);
             return;
         }
 
+        if (!root)
+            return;
+
         if (root->left)
-            allpath(root->left, path + "->" + to_string(root->left->val), ans);
+            allpath(root->left, ans, p + "->" + to_string(root->left->val));
         if (root->right)
-            allpath(root->right, path + "->" + to_string(root->right->val), ans);
+            allpath(root->right, ans, p + "->" + to_string(root->right->val));
     }
 
     vector<string> binaryTreePaths(TreeNode* root) {
         vector<string> ans;
-
-        if (!root)
-            return ans;
-            
-        string path = to_string(root->val);
-
-        allpath(root, path, ans);
+        allpath(root, ans, to_string(root->val));
 
         return ans;
     }
