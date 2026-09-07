@@ -335,6 +335,7 @@ This repository is a collection of Data Structures and Algorithms problems solve
 | [0199-binary-tree-right-side-view](https://github.com/vanshika-CG/dsa/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/vanshika-CG/dsa/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0257-binary-tree-paths](https://github.com/vanshika-CG/dsa/tree/main/0257-binary-tree-paths/) | Easy |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/vanshika-CG/dsa/tree/main/0515-find-largest-value-in-each-tree-row/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/vanshika-CG/dsa/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0572-subtree-of-another-tree](https://github.com/vanshika-CG/dsa/tree/main/0572-subtree-of-another-tree/) | Easy |
 | [0637-average-of-levels-in-binary-tree](https://github.com/vanshika-CG/dsa/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
@@ -543,6 +544,7 @@ This repository is a collection of Data Structures and Algorithms problems solve
 | [0112-path-sum](https://github.com/vanshika-CG/dsa/tree/main/0112-path-sum/) | Easy |
 | [0199-binary-tree-right-side-view](https://github.com/vanshika-CG/dsa/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0279-perfect-squares](https://github.com/vanshika-CG/dsa/tree/main/0279-perfect-squares/) | Medium |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/vanshika-CG/dsa/tree/main/0515-find-largest-value-in-each-tree-row/) | Medium |
 | [0637-average-of-levels-in-binary-tree](https://github.com/vanshika-CG/dsa/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
 ## Enumeration
 | Problem Name | Difficulty |
@@ -601,6 +603,7 @@ This repository is a collection of Data Structures and Algorithms problems solve
 | [0199-binary-tree-right-side-view](https://github.com/vanshika-CG/dsa/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/vanshika-CG/dsa/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0257-binary-tree-paths](https://github.com/vanshika-CG/dsa/tree/main/0257-binary-tree-paths/) | Easy |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/vanshika-CG/dsa/tree/main/0515-find-largest-value-in-each-tree-row/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/vanshika-CG/dsa/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0572-subtree-of-another-tree](https://github.com/vanshika-CG/dsa/tree/main/0572-subtree-of-another-tree/) | Easy |
 | [0637-average-of-levels-in-binary-tree](https://github.com/vanshika-CG/dsa/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
@@ -624,6 +627,7 @@ This repository is a collection of Data Structures and Algorithms problems solve
 | [0199-binary-tree-right-side-view](https://github.com/vanshika-CG/dsa/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/vanshika-CG/dsa/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0257-binary-tree-paths](https://github.com/vanshika-CG/dsa/tree/main/0257-binary-tree-paths/) | Easy |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/vanshika-CG/dsa/tree/main/0515-find-largest-value-in-each-tree-row/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/vanshika-CG/dsa/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0572-subtree-of-another-tree](https://github.com/vanshika-CG/dsa/tree/main/0572-subtree-of-another-tree/) | Easy |
 | [0637-average-of-levels-in-binary-tree](https://github.com/vanshika-CG/dsa/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
