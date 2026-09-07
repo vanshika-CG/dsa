@@ -330,6 +330,7 @@ This repository is a collection of Data Structures and Algorithms problems solve
 | [0110-balanced-binary-tree](https://github.com/vanshika-CG/dsa/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0111-minimum-depth-of-binary-tree](https://github.com/vanshika-CG/dsa/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/vanshika-CG/dsa/tree/main/0112-path-sum/) | Easy |
+| [0129-sum-root-to-leaf-numbers](https://github.com/vanshika-CG/dsa/tree/main/0129-sum-root-to-leaf-numbers/) | Medium |
 | [0144-binary-tree-preorder-traversal](https://github.com/vanshika-CG/dsa/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/vanshika-CG/dsa/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0199-binary-tree-right-side-view](https://github.com/vanshika-CG/dsa/tree/main/0199-binary-tree-right-side-view/) | Medium |
@@ -600,6 +601,7 @@ This repository is a collection of Data Structures and Algorithms problems solve
 | [0110-balanced-binary-tree](https://github.com/vanshika-CG/dsa/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0111-minimum-depth-of-binary-tree](https://github.com/vanshika-CG/dsa/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/vanshika-CG/dsa/tree/main/0112-path-sum/) | Easy |
+| [0129-sum-root-to-leaf-numbers](https://github.com/vanshika-CG/dsa/tree/main/0129-sum-root-to-leaf-numbers/) | Medium |
 | [0144-binary-tree-preorder-traversal](https://github.com/vanshika-CG/dsa/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/vanshika-CG/dsa/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0199-binary-tree-right-side-view](https://github.com/vanshika-CG/dsa/tree/main/0199-binary-tree-right-side-view/) | Medium |
@@ -625,6 +627,7 @@ This repository is a collection of Data Structures and Algorithms problems solve
 | [0110-balanced-binary-tree](https://github.com/vanshika-CG/dsa/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0111-minimum-depth-of-binary-tree](https://github.com/vanshika-CG/dsa/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/vanshika-CG/dsa/tree/main/0112-path-sum/) | Easy |
+| [0129-sum-root-to-leaf-numbers](https://github.com/vanshika-CG/dsa/tree/main/0129-sum-root-to-leaf-numbers/) | Medium |
 | [0144-binary-tree-preorder-traversal](https://github.com/vanshika-CG/dsa/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/vanshika-CG/dsa/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0199-binary-tree-right-side-view](https://github.com/vanshika-CG/dsa/tree/main/0199-binary-tree-right-side-view/) | Medium |
