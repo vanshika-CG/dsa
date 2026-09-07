@@ -340,6 +340,7 @@ This repository is a collection of Data Structures and Algorithms problems solve
 | [0572-subtree-of-another-tree](https://github.com/vanshika-CG/dsa/tree/main/0572-subtree-of-another-tree/) | Easy |
 | [0637-average-of-levels-in-binary-tree](https://github.com/vanshika-CG/dsa/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
 | [0676-implement-magic-dictionary](https://github.com/vanshika-CG/dsa/tree/main/0676-implement-magic-dictionary/) | Medium |
+| [1302-deepest-leaves-sum](https://github.com/vanshika-CG/dsa/tree/main/1302-deepest-leaves-sum/) | Medium |
 | [1367-linked-list-in-binary-tree](https://github.com/vanshika-CG/dsa/tree/main/1367-linked-list-in-binary-tree/) | Medium |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/vanshika-CG/dsa/tree/main/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
 ## Design
@@ -546,6 +547,7 @@ This repository is a collection of Data Structures and Algorithms problems solve
 | [0279-perfect-squares](https://github.com/vanshika-CG/dsa/tree/main/0279-perfect-squares/) | Medium |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/vanshika-CG/dsa/tree/main/0515-find-largest-value-in-each-tree-row/) | Medium |
 | [0637-average-of-levels-in-binary-tree](https://github.com/vanshika-CG/dsa/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
+| [1302-deepest-leaves-sum](https://github.com/vanshika-CG/dsa/tree/main/1302-deepest-leaves-sum/) | Medium |
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -608,6 +610,7 @@ This repository is a collection of Data Structures and Algorithms problems solve
 | [0572-subtree-of-another-tree](https://github.com/vanshika-CG/dsa/tree/main/0572-subtree-of-another-tree/) | Easy |
 | [0637-average-of-levels-in-binary-tree](https://github.com/vanshika-CG/dsa/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
 | [0703-kth-largest-element-in-a-stream](https://github.com/vanshika-CG/dsa/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
+| [1302-deepest-leaves-sum](https://github.com/vanshika-CG/dsa/tree/main/1302-deepest-leaves-sum/) | Medium |
 | [1367-linked-list-in-binary-tree](https://github.com/vanshika-CG/dsa/tree/main/1367-linked-list-in-binary-tree/) | Medium |
 | [2196-create-binary-tree-from-descriptions](https://github.com/vanshika-CG/dsa/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/vanshika-CG/dsa/tree/main/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
@@ -632,6 +635,7 @@ This repository is a collection of Data Structures and Algorithms problems solve
 | [0572-subtree-of-another-tree](https://github.com/vanshika-CG/dsa/tree/main/0572-subtree-of-another-tree/) | Easy |
 | [0637-average-of-levels-in-binary-tree](https://github.com/vanshika-CG/dsa/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
 | [0703-kth-largest-element-in-a-stream](https://github.com/vanshika-CG/dsa/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
+| [1302-deepest-leaves-sum](https://github.com/vanshika-CG/dsa/tree/main/1302-deepest-leaves-sum/) | Medium |
 | [1367-linked-list-in-binary-tree](https://github.com/vanshika-CG/dsa/tree/main/1367-linked-list-in-binary-tree/) | Medium |
 | [2196-create-binary-tree-from-descriptions](https://github.com/vanshika-CG/dsa/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 ## Segment Tree
