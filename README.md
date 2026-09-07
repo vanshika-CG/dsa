@@ -31,6 +31,7 @@ This repository is a collection of Data Structures and Algorithms problems solve
 | [0001-two-sum](https://github.com/vanshika-CG/dsa/tree/main/0001-two-sum/) | Easy |
 | [0003-longest-substring-without-repeating-characters](https://github.com/vanshika-CG/dsa/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0012-integer-to-roman](https://github.com/vanshika-CG/dsa/tree/main/0012-integer-to-roman/) | Medium |
+| [0049-group-anagrams](https://github.com/vanshika-CG/dsa/tree/main/0049-group-anagrams/) | Medium |
 | [0076-minimum-window-substring](https://github.com/vanshika-CG/dsa/tree/main/0076-minimum-window-substring/) | Hard |
 | [0141-linked-list-cycle](https://github.com/vanshika-CG/dsa/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/vanshika-CG/dsa/tree/main/0142-linked-list-cycle-ii/) | Medium |
@@ -73,6 +74,7 @@ This repository is a collection of Data Structures and Algorithms problems solve
 | [0014-longest-common-prefix](https://github.com/vanshika-CG/dsa/tree/main/0014-longest-common-prefix/) | Easy |
 | [0020-valid-parentheses](https://github.com/vanshika-CG/dsa/tree/main/0020-valid-parentheses/) | Easy |
 | [0038-count-and-say](https://github.com/vanshika-CG/dsa/tree/main/0038-count-and-say/) | Medium |
+| [0049-group-anagrams](https://github.com/vanshika-CG/dsa/tree/main/0049-group-anagrams/) | Medium |
 | [0076-minimum-window-substring](https://github.com/vanshika-CG/dsa/tree/main/0076-minimum-window-substring/) | Hard |
 | [0125-valid-palindrome](https://github.com/vanshika-CG/dsa/tree/main/0125-valid-palindrome/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/vanshika-CG/dsa/tree/main/0151-reverse-words-in-a-string/) | Medium |
@@ -150,6 +152,7 @@ This repository is a collection of Data Structures and Algorithms problems solve
 | [0035-search-insert-position](https://github.com/vanshika-CG/dsa/tree/main/0035-search-insert-position/) | Easy |
 | [0039-combination-sum](https://github.com/vanshika-CG/dsa/tree/main/0039-combination-sum/) | Medium |
 | [0048-rotate-image](https://github.com/vanshika-CG/dsa/tree/main/0048-rotate-image/) | Medium |
+| [0049-group-anagrams](https://github.com/vanshika-CG/dsa/tree/main/0049-group-anagrams/) | Medium |
 | [0053-maximum-subarray](https://github.com/vanshika-CG/dsa/tree/main/0053-maximum-subarray/) | Medium |
 | [0056-merge-intervals](https://github.com/vanshika-CG/dsa/tree/main/0056-merge-intervals/) | Medium |
 | [0057-insert-interval](https://github.com/vanshika-CG/dsa/tree/main/0057-insert-interval/) | Medium |
@@ -283,6 +286,7 @@ This repository is a collection of Data Structures and Algorithms problems solve
 | [0015-3sum](https://github.com/vanshika-CG/dsa/tree/main/0015-3sum/) | Medium |
 | [0016-3sum-closest](https://github.com/vanshika-CG/dsa/tree/main/0016-3sum-closest/) | Medium |
 | [0018-4sum](https://github.com/vanshika-CG/dsa/tree/main/0018-4sum/) | Medium |
+| [0049-group-anagrams](https://github.com/vanshika-CG/dsa/tree/main/0049-group-anagrams/) | Medium |
 | [0056-merge-intervals](https://github.com/vanshika-CG/dsa/tree/main/0056-merge-intervals/) | Medium |
 | [0075-sort-colors](https://github.com/vanshika-CG/dsa/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/vanshika-CG/dsa/tree/main/0088-merge-sorted-array/) | Easy |
