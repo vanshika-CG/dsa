@@ -45,6 +45,7 @@ This repository is a collection of Data Structures and Algorithms problems solve
 | [0438-find-all-anagrams-in-a-string](https://github.com/vanshika-CG/dsa/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/vanshika-CG/dsa/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0451-sort-characters-by-frequency](https://github.com/vanshika-CG/dsa/tree/main/0451-sort-characters-by-frequency/) | Medium |
+| [0525-contiguous-array](https://github.com/vanshika-CG/dsa/tree/main/0525-contiguous-array/) | Medium |
 | [0567-permutation-in-string](https://github.com/vanshika-CG/dsa/tree/main/0567-permutation-in-string/) | Medium |
 | [0676-implement-magic-dictionary](https://github.com/vanshika-CG/dsa/tree/main/0676-implement-magic-dictionary/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/vanshika-CG/dsa/tree/main/0692-top-k-frequent-words/) | Medium |
@@ -178,6 +179,7 @@ This repository is a collection of Data Structures and Algorithms problems solve
 | [0485-max-consecutive-ones](https://github.com/vanshika-CG/dsa/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0506-relative-ranks](https://github.com/vanshika-CG/dsa/tree/main/0506-relative-ranks/) | Easy |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/vanshika-CG/dsa/tree/main/0524-longest-word-in-dictionary-through-deleting/) | Medium |
+| [0525-contiguous-array](https://github.com/vanshika-CG/dsa/tree/main/0525-contiguous-array/) | Medium |
 | [0540-single-element-in-a-sorted-array](https://github.com/vanshika-CG/dsa/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0643-maximum-average-subarray-i](https://github.com/vanshika-CG/dsa/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0692-top-k-frequent-words](https://github.com/vanshika-CG/dsa/tree/main/0692-top-k-frequent-words/) | Medium |
@@ -487,6 +489,7 @@ This repository is a collection of Data Structures and Algorithms problems solve
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/vanshika-CG/dsa/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+| [0525-contiguous-array](https://github.com/vanshika-CG/dsa/tree/main/0525-contiguous-array/) | Medium |
 | [0930-binary-subarrays-with-sum](https://github.com/vanshika-CG/dsa/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/vanshika-CG/dsa/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1248-count-number-of-nice-subarrays](https://github.com/vanshika-CG/dsa/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
