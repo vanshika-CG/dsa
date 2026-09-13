@@ -82,6 +82,7 @@ This repository is a collection of Data Structures and Algorithms problems solve
 | [0205-isomorphic-strings](https://github.com/vanshika-CG/dsa/tree/main/0205-isomorphic-strings/) | Easy |
 | [0242-valid-anagram](https://github.com/vanshika-CG/dsa/tree/main/0242-valid-anagram/) | Easy |
 | [0257-binary-tree-paths](https://github.com/vanshika-CG/dsa/tree/main/0257-binary-tree-paths/) | Easy |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/vanshika-CG/dsa/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
 | [0345-reverse-vowels-of-a-string](https://github.com/vanshika-CG/dsa/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/vanshika-CG/dsa/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0392-is-subsequence](https://github.com/vanshika-CG/dsa/tree/main/0392-is-subsequence/) | Easy |
@@ -344,6 +345,7 @@ This repository is a collection of Data Structures and Algorithms problems solve
 | [0226-invert-binary-tree](https://github.com/vanshika-CG/dsa/tree/main/0226-invert-binary-tree/) | Easy |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/vanshika-CG/dsa/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0257-binary-tree-paths](https://github.com/vanshika-CG/dsa/tree/main/0257-binary-tree-paths/) | Easy |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/vanshika-CG/dsa/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
 | [0404-sum-of-left-leaves](https://github.com/vanshika-CG/dsa/tree/main/0404-sum-of-left-leaves/) | Easy |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/vanshika-CG/dsa/tree/main/0515-find-largest-value-in-each-tree-row/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/vanshika-CG/dsa/tree/main/0543-diameter-of-binary-tree/) | Easy |
@@ -357,6 +359,7 @@ This repository is a collection of Data Structures and Algorithms problems solve
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/vanshika-CG/dsa/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
 | [0676-implement-magic-dictionary](https://github.com/vanshika-CG/dsa/tree/main/0676-implement-magic-dictionary/) | Medium |
 | [0703-kth-largest-element-in-a-stream](https://github.com/vanshika-CG/dsa/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 | [0707-design-linked-list](https://github.com/vanshika-CG/dsa/tree/main/0707-design-linked-list/) | Medium |
@@ -562,6 +565,7 @@ This repository is a collection of Data Structures and Algorithms problems solve
 | [0199-binary-tree-right-side-view](https://github.com/vanshika-CG/dsa/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0226-invert-binary-tree](https://github.com/vanshika-CG/dsa/tree/main/0226-invert-binary-tree/) | Easy |
 | [0279-perfect-squares](https://github.com/vanshika-CG/dsa/tree/main/0279-perfect-squares/) | Medium |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/vanshika-CG/dsa/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
 | [0404-sum-of-left-leaves](https://github.com/vanshika-CG/dsa/tree/main/0404-sum-of-left-leaves/) | Easy |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/vanshika-CG/dsa/tree/main/0515-find-largest-value-in-each-tree-row/) | Medium |
 | [0637-average-of-levels-in-binary-tree](https://github.com/vanshika-CG/dsa/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
@@ -628,6 +632,7 @@ This repository is a collection of Data Structures and Algorithms problems solve
 | [0226-invert-binary-tree](https://github.com/vanshika-CG/dsa/tree/main/0226-invert-binary-tree/) | Easy |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/vanshika-CG/dsa/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0257-binary-tree-paths](https://github.com/vanshika-CG/dsa/tree/main/0257-binary-tree-paths/) | Easy |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/vanshika-CG/dsa/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
 | [0404-sum-of-left-leaves](https://github.com/vanshika-CG/dsa/tree/main/0404-sum-of-left-leaves/) | Easy |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/vanshika-CG/dsa/tree/main/0515-find-largest-value-in-each-tree-row/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/vanshika-CG/dsa/tree/main/0543-diameter-of-binary-tree/) | Easy |
@@ -659,6 +664,7 @@ This repository is a collection of Data Structures and Algorithms problems solve
 | [0226-invert-binary-tree](https://github.com/vanshika-CG/dsa/tree/main/0226-invert-binary-tree/) | Easy |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/vanshika-CG/dsa/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0257-binary-tree-paths](https://github.com/vanshika-CG/dsa/tree/main/0257-binary-tree-paths/) | Easy |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/vanshika-CG/dsa/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
 | [0404-sum-of-left-leaves](https://github.com/vanshika-CG/dsa/tree/main/0404-sum-of-left-leaves/) | Easy |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/vanshika-CG/dsa/tree/main/0515-find-largest-value-in-each-tree-row/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/vanshika-CG/dsa/tree/main/0543-diameter-of-binary-tree/) | Easy |
