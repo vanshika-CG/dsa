@@ -12,22 +12,22 @@
  */
 class Solution {
 public:
+    bool mirror(TreeNode* l, TreeNode* r) {
+        if (!l && !r)
+            return true;
+        if (!l || !r)
+            return false;
+
+        if (l->val != r->val)
+            return false;
+
+        return mirror(l->left, r->right) && mirror(l->right, r->left);
+    }
+
     bool isSymmetric(TreeNode* root) {
         if (!root)
             return true;
-        return ismirror(root->right, root->left);
-    }
 
-private:
-    bool ismirror(TreeNode* a, TreeNode* b) {
-        if (!a && !b)
-            return true;
-        if (!a || !b)
-            return false;
-
-        if (a->val != b->val)
-            return false;
-
-        return ismirror(a->right, b->left) && ismirror(a->left, b->right);
+        return mirror(root->left, root->right);
     }
 };
