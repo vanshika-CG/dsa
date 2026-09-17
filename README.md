@@ -53,6 +53,7 @@ This repository is a collection of Data Structures and Algorithms problems solve
 | [0904-fruit-into-baskets](https://github.com/vanshika-CG/dsa/tree/main/0904-fruit-into-baskets/) | Medium |
 | [0930-binary-subarrays-with-sum](https://github.com/vanshika-CG/dsa/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [0992-subarrays-with-k-different-integers](https://github.com/vanshika-CG/dsa/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
+| [1122-relative-sort-array](https://github.com/vanshika-CG/dsa/tree/main/1122-relative-sort-array/) | Easy |
 | [1189-maximum-number-of-balloons](https://github.com/vanshika-CG/dsa/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1248-count-number-of-nice-subarrays](https://github.com/vanshika-CG/dsa/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1346-check-if-n-and-its-double-exist](https://github.com/vanshika-CG/dsa/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
@@ -206,6 +207,7 @@ This repository is a collection of Data Structures and Algorithms problems solve
 | [1004-max-consecutive-ones-iii](https://github.com/vanshika-CG/dsa/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1046-last-stone-weight](https://github.com/vanshika-CG/dsa/tree/main/1046-last-stone-weight/) | Easy |
 | [1052-grumpy-bookstore-owner](https://github.com/vanshika-CG/dsa/tree/main/1052-grumpy-bookstore-owner/) | Medium |
+| [1122-relative-sort-array](https://github.com/vanshika-CG/dsa/tree/main/1122-relative-sort-array/) | Easy |
 | [1248-count-number-of-nice-subarrays](https://github.com/vanshika-CG/dsa/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/vanshika-CG/dsa/tree/main/1299-replace-elements-with-greatest-element-on-right-side/) | Easy |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/vanshika-CG/dsa/tree/main/1337-the-k-weakest-rows-in-a-matrix/) | Easy |
@@ -314,6 +316,7 @@ This repository is a collection of Data Structures and Algorithms problems solve
 | [0948-bag-of-tokens](https://github.com/vanshika-CG/dsa/tree/main/0948-bag-of-tokens/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/vanshika-CG/dsa/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/vanshika-CG/dsa/tree/main/0977-squares-of-a-sorted-array/) | Easy |
+| [1122-relative-sort-array](https://github.com/vanshika-CG/dsa/tree/main/1122-relative-sort-array/) | Easy |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/vanshika-CG/dsa/tree/main/1337-the-k-weakest-rows-in-a-matrix/) | Easy |
 | [1346-check-if-n-and-its-double-exist](https://github.com/vanshika-CG/dsa/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
 | [1679-max-number-of-k-sum-pairs](https://github.com/vanshika-CG/dsa/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
@@ -726,6 +729,7 @@ This repository is a collection of Data Structures and Algorithms problems solve
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0912-sort-an-array](https://github.com/vanshika-CG/dsa/tree/main/0912-sort-an-array/) | Medium |
+| [1122-relative-sort-array](https://github.com/vanshika-CG/dsa/tree/main/1122-relative-sort-array/) | Easy |
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -760,4 +764,12 @@ This repository is a collection of Data Structures and Algorithms problems solve
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/vanshika-CG/dsa/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
+## Quicksort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1122-relative-sort-array](https://github.com/vanshika-CG/dsa/tree/main/1122-relative-sort-array/) | Easy |
+## Bubble Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1122-relative-sort-array](https://github.com/vanshika-CG/dsa/tree/main/1122-relative-sort-array/) | Easy |
 <!---LeetCode Topics End-->
