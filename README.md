@@ -239,6 +239,7 @@ This repository is a collection of Data Structures and Algorithms problems solve
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/vanshika-CG/dsa/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/vanshika-CG/dsa/tree/main/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/vanshika-CG/dsa/tree/main/3070-count-submatrices-with-top-left-element-and-sum-less-than-k/) | Medium |
+| [3142-check-if-grid-satisfies-conditions](https://github.com/vanshika-CG/dsa/tree/main/3142-check-if-grid-satisfies-conditions/) | Easy |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/vanshika-CG/dsa/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3689-maximum-total-subarray-value-i](https://github.com/vanshika-CG/dsa/tree/main/3689-maximum-total-subarray-value-i/) | Medium |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/vanshika-CG/dsa/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
@@ -426,6 +427,7 @@ This repository is a collection of Data Structures and Algorithms problems solve
 | [1380-lucky-numbers-in-a-matrix](https://github.com/vanshika-CG/dsa/tree/main/1380-lucky-numbers-in-a-matrix/) | Easy |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/vanshika-CG/dsa/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/vanshika-CG/dsa/tree/main/3070-count-submatrices-with-top-left-element-and-sum-less-than-k/) | Medium |
+| [3142-check-if-grid-satisfies-conditions](https://github.com/vanshika-CG/dsa/tree/main/3142-check-if-grid-satisfies-conditions/) | Easy |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
