@@ -345,6 +345,7 @@ This repository is a collection of Data Structures and Algorithms problems solve
 | [0111-minimum-depth-of-binary-tree](https://github.com/vanshika-CG/dsa/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/vanshika-CG/dsa/tree/main/0112-path-sum/) | Easy |
 | [0113-path-sum-ii](https://github.com/vanshika-CG/dsa/tree/main/0113-path-sum-ii/) | Medium |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/vanshika-CG/dsa/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/vanshika-CG/dsa/tree/main/0116-populating-next-right-pointers-in-each-node/) | Medium |
 | [0129-sum-root-to-leaf-numbers](https://github.com/vanshika-CG/dsa/tree/main/0129-sum-root-to-leaf-numbers/) | Medium |
 | [0144-binary-tree-preorder-traversal](https://github.com/vanshika-CG/dsa/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
@@ -532,6 +533,7 @@ This repository is a collection of Data Structures and Algorithms problems solve
 | [0023-merge-k-sorted-lists](https://github.com/vanshika-CG/dsa/tree/main/0023-merge-k-sorted-lists/) | Hard |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/vanshika-CG/dsa/tree/main/0083-remove-duplicates-from-sorted-list/) | Easy |
 | [0086-partition-list](https://github.com/vanshika-CG/dsa/tree/main/0086-partition-list/) | Medium |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/vanshika-CG/dsa/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/vanshika-CG/dsa/tree/main/0116-populating-next-right-pointers-in-each-node/) | Medium |
 | [0141-linked-list-cycle](https://github.com/vanshika-CG/dsa/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/vanshika-CG/dsa/tree/main/0142-linked-list-cycle-ii/) | Medium |
@@ -600,6 +602,7 @@ This repository is a collection of Data Structures and Algorithms problems solve
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/vanshika-CG/dsa/tree/main/0020-valid-parentheses/) | Easy |
 | [0094-binary-tree-inorder-traversal](https://github.com/vanshika-CG/dsa/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/vanshika-CG/dsa/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0144-binary-tree-preorder-traversal](https://github.com/vanshika-CG/dsa/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/vanshika-CG/dsa/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/vanshika-CG/dsa/tree/main/0234-palindrome-linked-list/) | Easy |
@@ -644,6 +647,7 @@ This repository is a collection of Data Structures and Algorithms problems solve
 | [0111-minimum-depth-of-binary-tree](https://github.com/vanshika-CG/dsa/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/vanshika-CG/dsa/tree/main/0112-path-sum/) | Easy |
 | [0113-path-sum-ii](https://github.com/vanshika-CG/dsa/tree/main/0113-path-sum-ii/) | Medium |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/vanshika-CG/dsa/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/vanshika-CG/dsa/tree/main/0116-populating-next-right-pointers-in-each-node/) | Medium |
 | [0129-sum-root-to-leaf-numbers](https://github.com/vanshika-CG/dsa/tree/main/0129-sum-root-to-leaf-numbers/) | Medium |
 | [0144-binary-tree-preorder-traversal](https://github.com/vanshika-CG/dsa/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
@@ -681,6 +685,7 @@ This repository is a collection of Data Structures and Algorithms problems solve
 | [0111-minimum-depth-of-binary-tree](https://github.com/vanshika-CG/dsa/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/vanshika-CG/dsa/tree/main/0112-path-sum/) | Easy |
 | [0113-path-sum-ii](https://github.com/vanshika-CG/dsa/tree/main/0113-path-sum-ii/) | Medium |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/vanshika-CG/dsa/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/vanshika-CG/dsa/tree/main/0116-populating-next-right-pointers-in-each-node/) | Medium |
 | [0129-sum-root-to-leaf-numbers](https://github.com/vanshika-CG/dsa/tree/main/0129-sum-root-to-leaf-numbers/) | Medium |
 | [0144-binary-tree-preorder-traversal](https://github.com/vanshika-CG/dsa/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
