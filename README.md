@@ -364,6 +364,7 @@ This repository is a collection of Data Structures and Algorithms problems solve
 | [0637-average-of-levels-in-binary-tree](https://github.com/vanshika-CG/dsa/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
 | [0662-maximum-width-of-binary-tree](https://github.com/vanshika-CG/dsa/tree/main/0662-maximum-width-of-binary-tree/) | Medium |
 | [0676-implement-magic-dictionary](https://github.com/vanshika-CG/dsa/tree/main/0676-implement-magic-dictionary/) | Medium |
+| [0814-binary-tree-pruning](https://github.com/vanshika-CG/dsa/tree/main/0814-binary-tree-pruning/) | Medium |
 | [1302-deepest-leaves-sum](https://github.com/vanshika-CG/dsa/tree/main/1302-deepest-leaves-sum/) | Medium |
 | [1325-delete-leaves-with-a-given-value](https://github.com/vanshika-CG/dsa/tree/main/1325-delete-leaves-with-a-given-value/) | Medium |
 | [1367-linked-list-in-binary-tree](https://github.com/vanshika-CG/dsa/tree/main/1367-linked-list-in-binary-tree/) | Medium |
@@ -668,6 +669,7 @@ This repository is a collection of Data Structures and Algorithms problems solve
 | [0637-average-of-levels-in-binary-tree](https://github.com/vanshika-CG/dsa/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
 | [0662-maximum-width-of-binary-tree](https://github.com/vanshika-CG/dsa/tree/main/0662-maximum-width-of-binary-tree/) | Medium |
 | [0703-kth-largest-element-in-a-stream](https://github.com/vanshika-CG/dsa/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
+| [0814-binary-tree-pruning](https://github.com/vanshika-CG/dsa/tree/main/0814-binary-tree-pruning/) | Medium |
 | [1302-deepest-leaves-sum](https://github.com/vanshika-CG/dsa/tree/main/1302-deepest-leaves-sum/) | Medium |
 | [1325-delete-leaves-with-a-given-value](https://github.com/vanshika-CG/dsa/tree/main/1325-delete-leaves-with-a-given-value/) | Medium |
 | [1367-linked-list-in-binary-tree](https://github.com/vanshika-CG/dsa/tree/main/1367-linked-list-in-binary-tree/) | Medium |
@@ -707,6 +709,7 @@ This repository is a collection of Data Structures and Algorithms problems solve
 | [0637-average-of-levels-in-binary-tree](https://github.com/vanshika-CG/dsa/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
 | [0662-maximum-width-of-binary-tree](https://github.com/vanshika-CG/dsa/tree/main/0662-maximum-width-of-binary-tree/) | Medium |
 | [0703-kth-largest-element-in-a-stream](https://github.com/vanshika-CG/dsa/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
+| [0814-binary-tree-pruning](https://github.com/vanshika-CG/dsa/tree/main/0814-binary-tree-pruning/) | Medium |
 | [1302-deepest-leaves-sum](https://github.com/vanshika-CG/dsa/tree/main/1302-deepest-leaves-sum/) | Medium |
 | [1325-delete-leaves-with-a-given-value](https://github.com/vanshika-CG/dsa/tree/main/1325-delete-leaves-with-a-given-value/) | Medium |
 | [1367-linked-list-in-binary-tree](https://github.com/vanshika-CG/dsa/tree/main/1367-linked-list-in-binary-tree/) | Medium |
