@@ -182,6 +182,7 @@ This repository is a collection of Data Structures and Algorithms problems solve
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/vanshika-CG/dsa/tree/main/0373-find-k-pairs-with-smallest-sums/) | Medium |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/vanshika-CG/dsa/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/vanshika-CG/dsa/tree/main/0485-max-consecutive-ones/) | Easy |
+| [0493-reverse-pairs](https://github.com/vanshika-CG/dsa/tree/main/0493-reverse-pairs/) | Hard |
 | [0506-relative-ranks](https://github.com/vanshika-CG/dsa/tree/main/0506-relative-ranks/) | Easy |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/vanshika-CG/dsa/tree/main/0524-longest-word-in-dictionary-through-deleting/) | Medium |
 | [0525-contiguous-array](https://github.com/vanshika-CG/dsa/tree/main/0525-contiguous-array/) | Medium |
@@ -410,6 +411,7 @@ This repository is a collection of Data Structures and Algorithms problems solve
 | [0367-valid-perfect-square](https://github.com/vanshika-CG/dsa/tree/main/0367-valid-perfect-square/) | Easy |
 | [0374-guess-number-higher-or-lower](https://github.com/vanshika-CG/dsa/tree/main/0374-guess-number-higher-or-lower/) | Easy |
 | [0441-arranging-coins](https://github.com/vanshika-CG/dsa/tree/main/0441-arranging-coins/) | Easy |
+| [0493-reverse-pairs](https://github.com/vanshika-CG/dsa/tree/main/0493-reverse-pairs/) | Hard |
 | [0540-single-element-in-a-sorted-array](https://github.com/vanshika-CG/dsa/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0704-binary-search](https://github.com/vanshika-CG/dsa/tree/main/0704-binary-search/) | Easy |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/vanshika-CG/dsa/tree/main/0744-find-smallest-letter-greater-than-target/) | Easy |
@@ -480,6 +482,7 @@ This repository is a collection of Data Structures and Algorithms problems solve
 | [0215-kth-largest-element-in-an-array](https://github.com/vanshika-CG/dsa/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/vanshika-CG/dsa/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/vanshika-CG/dsa/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [0493-reverse-pairs](https://github.com/vanshika-CG/dsa/tree/main/0493-reverse-pairs/) | Hard |
 | [0912-sort-an-array](https://github.com/vanshika-CG/dsa/tree/main/0912-sort-an-array/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/vanshika-CG/dsa/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/vanshika-CG/dsa/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
@@ -717,12 +720,14 @@ This repository is a collection of Data Structures and Algorithms problems solve
 ## Segment Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0493-reverse-pairs](https://github.com/vanshika-CG/dsa/tree/main/0493-reverse-pairs/) | Hard |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/vanshika-CG/dsa/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 ## Merge Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/vanshika-CG/dsa/tree/main/0023-merge-k-sorted-lists/) | Hard |
 | [0148-sort-list](https://github.com/vanshika-CG/dsa/tree/main/0148-sort-list/) | Medium |
+| [0493-reverse-pairs](https://github.com/vanshika-CG/dsa/tree/main/0493-reverse-pairs/) | Hard |
 | [0912-sort-an-array](https://github.com/vanshika-CG/dsa/tree/main/0912-sort-an-array/) | Medium |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/vanshika-CG/dsa/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 ## Queue
@@ -787,4 +792,16 @@ This repository is a collection of Data Structures and Algorithms problems solve
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1122-relative-sort-array](https://github.com/vanshika-CG/dsa/tree/main/1122-relative-sort-array/) | Easy |
+## Binary Indexed Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0493-reverse-pairs](https://github.com/vanshika-CG/dsa/tree/main/0493-reverse-pairs/) | Hard |
+## Ordered Set
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0493-reverse-pairs](https://github.com/vanshika-CG/dsa/tree/main/0493-reverse-pairs/) | Hard |
+## Treap
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0493-reverse-pairs](https://github.com/vanshika-CG/dsa/tree/main/0493-reverse-pairs/) | Hard |
 <!---LeetCode Topics End-->
