@@ -158,6 +158,7 @@ This repository is a collection of Data Structures and Algorithms problems solve
 | [0048-rotate-image](https://github.com/vanshika-CG/dsa/tree/main/0048-rotate-image/) | Medium |
 | [0049-group-anagrams](https://github.com/vanshika-CG/dsa/tree/main/0049-group-anagrams/) | Medium |
 | [0053-maximum-subarray](https://github.com/vanshika-CG/dsa/tree/main/0053-maximum-subarray/) | Medium |
+| [0054-spiral-matrix](https://github.com/vanshika-CG/dsa/tree/main/0054-spiral-matrix/) | Medium |
 | [0056-merge-intervals](https://github.com/vanshika-CG/dsa/tree/main/0056-merge-intervals/) | Medium |
 | [0057-insert-interval](https://github.com/vanshika-CG/dsa/tree/main/0057-insert-interval/) | Medium |
 | [0066-plus-one](https://github.com/vanshika-CG/dsa/tree/main/0066-plus-one/) | Easy |
@@ -426,6 +427,7 @@ This repository is a collection of Data Structures and Algorithms problems solve
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0048-rotate-image](https://github.com/vanshika-CG/dsa/tree/main/0048-rotate-image/) | Medium |
+| [0054-spiral-matrix](https://github.com/vanshika-CG/dsa/tree/main/0054-spiral-matrix/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/vanshika-CG/dsa/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/vanshika-CG/dsa/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/vanshika-CG/dsa/tree/main/1337-the-k-weakest-rows-in-a-matrix/) | Easy |
@@ -616,6 +618,7 @@ This repository is a collection of Data Structures and Algorithms problems solve
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0054-spiral-matrix](https://github.com/vanshika-CG/dsa/tree/main/0054-spiral-matrix/) | Medium |
 | [0844-backspace-string-compare](https://github.com/vanshika-CG/dsa/tree/main/0844-backspace-string-compare/) | Easy |
 | [1929-concatenation-of-array](https://github.com/vanshika-CG/dsa/tree/main/1929-concatenation-of-array/) | Easy |
 | [2161-partition-array-according-to-given-pivot](https://github.com/vanshika-CG/dsa/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
