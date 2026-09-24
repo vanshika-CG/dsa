@@ -4,40 +4,38 @@ public:
         vector<int> ans;
         int n = matrix.size();
         int m = matrix[0].size();
-        int srow = 0 , erow = n -1 , scol = 0 , ecol =m-1;
+        int l = 0, r = m - 1;
+        int t = 0, b = n - 1;
 
-        while(srow <= erow && scol <= ecol){
-
-            //top
-            for(int i =scol; i<=ecol ; i++){
-                ans.push_back(matrix[srow][i]);
+        while (t <= b && l <= r) {
+            for (int i = l; i <= r; i++) {
+                ans.push_back(matrix[t][i]);
             }
 
-            //right
-             for(int i =srow + 1; i<=erow ; i++){
-                ans.push_back(matrix[i][ecol]);
+            t++;
+
+            for (int i = t; i <= b; i++) {
+                ans.push_back(matrix[i][r]);
             }
 
+            r--;
 
-            //bottom
-             for(int i =ecol-1; i >= scol ; i--){
-
-                if(srow == erow) break;
-                ans.push_back(matrix[erow][i]);
+            for (int i = r; i >= l; i--) {
+                if (t > b)
+                    break;
+                ans.push_back(matrix[b][i]);
             }
 
-            //left
-             for(int i =erow-1; i >= srow+1 ; i--){
-                if(scol == ecol) break;
-                ans.push_back(matrix[i][scol]);
+            b--;
+
+            for (int i = b; i >= t; i--) {
+                if (l > r)
+                    break;
+                ans.push_back(matrix[i][l]);
             }
-
-            scol++ ,srow++;
-            ecol-- , erow--;
-
+            l++;
         }
 
         return ans;
-        
     }
 };
