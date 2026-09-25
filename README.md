@@ -226,6 +226,7 @@ This repository is a collection of Data Structures and Algorithms problems solve
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/vanshika-CG/dsa/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/vanshika-CG/dsa/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 | [1848-minimum-distance-to-the-target-element](https://github.com/vanshika-CG/dsa/tree/main/1848-minimum-distance-to-the-target-element/) | Easy |
+| [1913-maximum-product-difference-between-two-pairs](https://github.com/vanshika-CG/dsa/tree/main/1913-maximum-product-difference-between-two-pairs/) | Easy |
 | [1929-concatenation-of-array](https://github.com/vanshika-CG/dsa/tree/main/1929-concatenation-of-array/) | Easy |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/vanshika-CG/dsa/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [1980-find-unique-binary-string](https://github.com/vanshika-CG/dsa/tree/main/1980-find-unique-binary-string/) | Medium |
@@ -326,6 +327,7 @@ This repository is a collection of Data Structures and Algorithms problems solve
 | [1679-max-number-of-k-sum-pairs](https://github.com/vanshika-CG/dsa/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/vanshika-CG/dsa/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/vanshika-CG/dsa/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
+| [1913-maximum-product-difference-between-two-pairs](https://github.com/vanshika-CG/dsa/tree/main/1913-maximum-product-difference-between-two-pairs/) | Easy |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/vanshika-CG/dsa/tree/main/1984-minimum-difference-between-highest-and-lowest-of-k-scores/) | Easy |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/vanshika-CG/dsa/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/vanshika-CG/dsa/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
@@ -791,6 +793,7 @@ This repository is a collection of Data Structures and Algorithms problems solve
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1122-relative-sort-array](https://github.com/vanshika-CG/dsa/tree/main/1122-relative-sort-array/) | Easy |
+| [1913-maximum-product-difference-between-two-pairs](https://github.com/vanshika-CG/dsa/tree/main/1913-maximum-product-difference-between-two-pairs/) | Easy |
 ## Bubble Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
