@@ -174,6 +174,7 @@ This repository is a collection of Data Structures and Algorithms problems solve
 | [0162-find-peak-element](https://github.com/vanshika-CG/dsa/tree/main/0162-find-peak-element/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/vanshika-CG/dsa/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0189-rotate-array](https://github.com/vanshika-CG/dsa/tree/main/0189-rotate-array/) | Medium |
+| [0204-count-primes](https://github.com/vanshika-CG/dsa/tree/main/0204-count-primes/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/vanshika-CG/dsa/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/vanshika-CG/dsa/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/vanshika-CG/dsa/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
@@ -464,6 +465,7 @@ This repository is a collection of Data Structures and Algorithms problems solve
 | [0069-sqrtx](https://github.com/vanshika-CG/dsa/tree/main/0069-sqrtx/) | Easy |
 | [0189-rotate-array](https://github.com/vanshika-CG/dsa/tree/main/0189-rotate-array/) | Medium |
 | [0202-happy-number](https://github.com/vanshika-CG/dsa/tree/main/0202-happy-number/) | Easy |
+| [0204-count-primes](https://github.com/vanshika-CG/dsa/tree/main/0204-count-primes/) | Medium |
 | [0279-perfect-squares](https://github.com/vanshika-CG/dsa/tree/main/0279-perfect-squares/) | Medium |
 | [0367-valid-perfect-square](https://github.com/vanshika-CG/dsa/tree/main/0367-valid-perfect-square/) | Easy |
 | [0441-arranging-coins](https://github.com/vanshika-CG/dsa/tree/main/0441-arranging-coins/) | Easy |
@@ -603,6 +605,7 @@ This repository is a collection of Data Structures and Algorithms problems solve
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0204-count-primes](https://github.com/vanshika-CG/dsa/tree/main/0204-count-primes/) | Medium |
 | [0845-longest-mountain-in-array](https://github.com/vanshika-CG/dsa/tree/main/0845-longest-mountain-in-array/) | Medium |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/vanshika-CG/dsa/tree/main/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/vanshika-CG/dsa/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
@@ -642,6 +645,7 @@ This repository is a collection of Data Structures and Algorithms problems solve
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0204-count-primes](https://github.com/vanshika-CG/dsa/tree/main/0204-count-primes/) | Medium |
 | [1492-the-kth-factor-of-n](https://github.com/vanshika-CG/dsa/tree/main/1492-the-kth-factor-of-n/) | Medium |
 ## Tree
 | Problem Name | Difficulty |
@@ -810,4 +814,16 @@ This repository is a collection of Data Structures and Algorithms problems solve
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0493-reverse-pairs](https://github.com/vanshika-CG/dsa/tree/main/0493-reverse-pairs/) | Hard |
+## Primality Test
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0204-count-primes](https://github.com/vanshika-CG/dsa/tree/main/0204-count-primes/) | Medium |
+## Sieve Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0204-count-primes](https://github.com/vanshika-CG/dsa/tree/main/0204-count-primes/) | Medium |
+## Prime Number Sieve
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0204-count-primes](https://github.com/vanshika-CG/dsa/tree/main/0204-count-primes/) | Medium |
 <!---LeetCode Topics End-->
