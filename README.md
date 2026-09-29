@@ -461,6 +461,7 @@ This repository is a collection of Data Structures and Algorithms problems solve
 | [0009-palindrome-number](https://github.com/vanshika-CG/dsa/tree/main/0009-palindrome-number/) | Easy |
 | [0012-integer-to-roman](https://github.com/vanshika-CG/dsa/tree/main/0012-integer-to-roman/) | Medium |
 | [0048-rotate-image](https://github.com/vanshika-CG/dsa/tree/main/0048-rotate-image/) | Medium |
+| [0050-powx-n](https://github.com/vanshika-CG/dsa/tree/main/0050-powx-n/) | Medium |
 | [0066-plus-one](https://github.com/vanshika-CG/dsa/tree/main/0066-plus-one/) | Easy |
 | [0069-sqrtx](https://github.com/vanshika-CG/dsa/tree/main/0069-sqrtx/) | Easy |
 | [0189-rotate-array](https://github.com/vanshika-CG/dsa/tree/main/0189-rotate-array/) | Medium |
@@ -565,6 +566,7 @@ This repository is a collection of Data Structures and Algorithms problems solve
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/vanshika-CG/dsa/tree/main/0002-add-two-numbers/) | Medium |
 | [0021-merge-two-sorted-lists](https://github.com/vanshika-CG/dsa/tree/main/0021-merge-two-sorted-lists/) | Easy |
+| [0050-powx-n](https://github.com/vanshika-CG/dsa/tree/main/0050-powx-n/) | Medium |
 | [0206-reverse-linked-list](https://github.com/vanshika-CG/dsa/tree/main/0206-reverse-linked-list/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/vanshika-CG/dsa/tree/main/0234-palindrome-linked-list/) | Easy |
 ## Dynamic Programming
