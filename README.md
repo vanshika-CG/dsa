@@ -31,6 +31,7 @@ This repository is a collection of Data Structures and Algorithms problems solve
 | [0001-two-sum](https://github.com/vanshika-CG/dsa/tree/main/0001-two-sum/) | Easy |
 | [0003-longest-substring-without-repeating-characters](https://github.com/vanshika-CG/dsa/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0012-integer-to-roman](https://github.com/vanshika-CG/dsa/tree/main/0012-integer-to-roman/) | Medium |
+| [0041-first-missing-positive](https://github.com/vanshika-CG/dsa/tree/main/0041-first-missing-positive/) | Hard |
 | [0049-group-anagrams](https://github.com/vanshika-CG/dsa/tree/main/0049-group-anagrams/) | Medium |
 | [0076-minimum-window-substring](https://github.com/vanshika-CG/dsa/tree/main/0076-minimum-window-substring/) | Hard |
 | [0141-linked-list-cycle](https://github.com/vanshika-CG/dsa/tree/main/0141-linked-list-cycle/) | Easy |
@@ -155,6 +156,7 @@ This repository is a collection of Data Structures and Algorithms problems solve
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/vanshika-CG/dsa/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/vanshika-CG/dsa/tree/main/0035-search-insert-position/) | Easy |
 | [0039-combination-sum](https://github.com/vanshika-CG/dsa/tree/main/0039-combination-sum/) | Medium |
+| [0041-first-missing-positive](https://github.com/vanshika-CG/dsa/tree/main/0041-first-missing-positive/) | Hard |
 | [0048-rotate-image](https://github.com/vanshika-CG/dsa/tree/main/0048-rotate-image/) | Medium |
 | [0049-group-anagrams](https://github.com/vanshika-CG/dsa/tree/main/0049-group-anagrams/) | Medium |
 | [0053-maximum-subarray](https://github.com/vanshika-CG/dsa/tree/main/0053-maximum-subarray/) | Medium |
