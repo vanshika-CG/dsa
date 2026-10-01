@@ -775,6 +775,7 @@ This repository is a collection of Data Structures and Algorithms problems solve
 ## Bracket Sequences
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0020-valid-parentheses](https://github.com/vanshika-CG/dsa/tree/main/0020-valid-parentheses/) | Easy |
 | [1021-remove-outermost-parentheses](https://github.com/vanshika-CG/dsa/tree/main/1021-remove-outermost-parentheses/) | Easy |
 ## String Matching
 | Problem Name | Difficulty |
