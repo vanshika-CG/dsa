@@ -34,6 +34,7 @@ This repository is a collection of Data Structures and Algorithms problems solve
 | [0041-first-missing-positive](https://github.com/vanshika-CG/dsa/tree/main/0041-first-missing-positive/) | Hard |
 | [0049-group-anagrams](https://github.com/vanshika-CG/dsa/tree/main/0049-group-anagrams/) | Medium |
 | [0076-minimum-window-substring](https://github.com/vanshika-CG/dsa/tree/main/0076-minimum-window-substring/) | Hard |
+| [0128-longest-consecutive-sequence](https://github.com/vanshika-CG/dsa/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0141-linked-list-cycle](https://github.com/vanshika-CG/dsa/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/vanshika-CG/dsa/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/vanshika-CG/dsa/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
@@ -170,6 +171,7 @@ This repository is a collection of Data Structures and Algorithms problems solve
 | [0088-merge-sorted-array](https://github.com/vanshika-CG/dsa/tree/main/0088-merge-sorted-array/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/vanshika-CG/dsa/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/vanshika-CG/dsa/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
+| [0128-longest-consecutive-sequence](https://github.com/vanshika-CG/dsa/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0135-candy](https://github.com/vanshika-CG/dsa/tree/main/0135-candy/) | Hard |
 | [0152-maximum-product-subarray](https://github.com/vanshika-CG/dsa/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/vanshika-CG/dsa/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
@@ -831,4 +833,8 @@ This repository is a collection of Data Structures and Algorithms problems solve
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0204-count-primes](https://github.com/vanshika-CG/dsa/tree/main/0204-count-primes/) | Medium |
+## Union-Find
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/vanshika-CG/dsa/tree/main/0128-longest-consecutive-sequence/) | Medium |
 <!---LeetCode Topics End-->
