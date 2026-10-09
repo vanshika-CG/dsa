@@ -4,17 +4,25 @@ public:
         unordered_map<string, vector<string>> m;
 
         for (string s : strs) {
-            string key = s;
-            sort(key.begin(), key.end());
+            vector<int> freq(26, 0);
+
+            for (char c : s)
+                freq[c - 'a']++;
+
+            string key = "";
+
+            for (int i = 0; i < 26; i++) {
+                key += "#";
+                key += to_string(freq[i]);
+            }
 
             m[key].push_back(s);
         }
 
         vector<vector<string>> ans;
 
-        for (auto& p : m) {
+        for (auto& p : m)
             ans.push_back(p.second);
-        }
 
         return ans;
     }
