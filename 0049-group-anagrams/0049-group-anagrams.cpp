@@ -12,9 +12,10 @@ public:
 
         vector<vector<string>> ans;
 
-        for (auto& [key, grp] : m) {
-            ans.push_back(grp);
+        for (auto& p : m) {
+            ans.push_back(p.second);
         }
+
         return ans;
     }
 };
