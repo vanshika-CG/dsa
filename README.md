@@ -267,6 +267,7 @@ This repository is a collection of Data Structures and Algorithms problems solve
 | [0027-remove-element](https://github.com/vanshika-CG/dsa/tree/main/0027-remove-element/) | Easy |
 | [0075-sort-colors](https://github.com/vanshika-CG/dsa/tree/main/0075-sort-colors/) | Medium |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/vanshika-CG/dsa/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/vanshika-CG/dsa/tree/main/0082-remove-duplicates-from-sorted-list-ii/) | Medium |
 | [0086-partition-list](https://github.com/vanshika-CG/dsa/tree/main/0086-partition-list/) | Medium |
 | [0088-merge-sorted-array](https://github.com/vanshika-CG/dsa/tree/main/0088-merge-sorted-array/) | Easy |
 | [0125-valid-palindrome](https://github.com/vanshika-CG/dsa/tree/main/0125-valid-palindrome/) | Easy |
@@ -549,6 +550,7 @@ This repository is a collection of Data Structures and Algorithms problems solve
 | [0019-remove-nth-node-from-end-of-list](https://github.com/vanshika-CG/dsa/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0021-merge-two-sorted-lists](https://github.com/vanshika-CG/dsa/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0023-merge-k-sorted-lists](https://github.com/vanshika-CG/dsa/tree/main/0023-merge-k-sorted-lists/) | Hard |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/vanshika-CG/dsa/tree/main/0082-remove-duplicates-from-sorted-list-ii/) | Medium |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/vanshika-CG/dsa/tree/main/0083-remove-duplicates-from-sorted-list/) | Easy |
 | [0086-partition-list](https://github.com/vanshika-CG/dsa/tree/main/0086-partition-list/) | Medium |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/vanshika-CG/dsa/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
