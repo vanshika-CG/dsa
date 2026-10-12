@@ -13,19 +13,19 @@ public:
     ListNode* deleteDuplicates(ListNode* head) {
         if (!head)
             return nullptr;
+        if (!head->next)
+            return head;
+            
+        ListNode* prev = head;
+        ListNode* curr = head->next;
 
-        ListNode* curr = head;
-        ListNode* nxt = head->next;
-
-        while (nxt) {
-            if (curr->val != nxt->val) {
-                curr = nxt;
-                nxt = nxt->next;
+        while (curr) {
+            if (curr->val == prev->val) {
+                prev->next = curr->next;
+                curr = curr->next;
             } else {
-                ListNode* temp = nxt;
-                curr->next = nxt->next;
-                nxt = curr->next;
-                delete temp;
+                prev = prev->next;
+                curr = curr->next;
             }
         }
         return head;
