@@ -476,6 +476,7 @@ This repository is a collection of Data Structures and Algorithms problems solve
 | [0279-perfect-squares](https://github.com/vanshika-CG/dsa/tree/main/0279-perfect-squares/) | Medium |
 | [0367-valid-perfect-square](https://github.com/vanshika-CG/dsa/tree/main/0367-valid-perfect-square/) | Easy |
 | [0441-arranging-coins](https://github.com/vanshika-CG/dsa/tree/main/0441-arranging-coins/) | Easy |
+| [0509-fibonacci-number](https://github.com/vanshika-CG/dsa/tree/main/0509-fibonacci-number/) | Easy |
 | [0973-k-closest-points-to-origin](https://github.com/vanshika-CG/dsa/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [1248-count-number-of-nice-subarrays](https://github.com/vanshika-CG/dsa/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/vanshika-CG/dsa/tree/main/1290-convert-binary-number-in-a-linked-list-to-integer/) | Easy |
@@ -577,6 +578,7 @@ This repository is a collection of Data Structures and Algorithms problems solve
 | [0050-powx-n](https://github.com/vanshika-CG/dsa/tree/main/0050-powx-n/) | Medium |
 | [0206-reverse-linked-list](https://github.com/vanshika-CG/dsa/tree/main/0206-reverse-linked-list/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/vanshika-CG/dsa/tree/main/0234-palindrome-linked-list/) | Easy |
+| [0509-fibonacci-number](https://github.com/vanshika-CG/dsa/tree/main/0509-fibonacci-number/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -587,6 +589,7 @@ This repository is a collection of Data Structures and Algorithms problems solve
 | [0152-maximum-product-subarray](https://github.com/vanshika-CG/dsa/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0279-perfect-squares](https://github.com/vanshika-CG/dsa/tree/main/0279-perfect-squares/) | Medium |
 | [0392-is-subsequence](https://github.com/vanshika-CG/dsa/tree/main/0392-is-subsequence/) | Easy |
+| [0509-fibonacci-number](https://github.com/vanshika-CG/dsa/tree/main/0509-fibonacci-number/) | Easy |
 | [0845-longest-mountain-in-array](https://github.com/vanshika-CG/dsa/tree/main/0845-longest-mountain-in-array/) | Medium |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/vanshika-CG/dsa/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 ## Breadth-First Search
@@ -841,4 +844,8 @@ This repository is a collection of Data Structures and Algorithms problems solve
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/vanshika-CG/dsa/tree/main/0128-longest-consecutive-sequence/) | Medium |
+## Memoization
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0509-fibonacci-number](https://github.com/vanshika-CG/dsa/tree/main/0509-fibonacci-number/) | Easy |
 <!---LeetCode Topics End-->
