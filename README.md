@@ -470,6 +470,7 @@ This repository is a collection of Data Structures and Algorithms problems solve
 | [0050-powx-n](https://github.com/vanshika-CG/dsa/tree/main/0050-powx-n/) | Medium |
 | [0066-plus-one](https://github.com/vanshika-CG/dsa/tree/main/0066-plus-one/) | Easy |
 | [0069-sqrtx](https://github.com/vanshika-CG/dsa/tree/main/0069-sqrtx/) | Easy |
+| [0070-climbing-stairs](https://github.com/vanshika-CG/dsa/tree/main/0070-climbing-stairs/) | Easy |
 | [0189-rotate-array](https://github.com/vanshika-CG/dsa/tree/main/0189-rotate-array/) | Medium |
 | [0202-happy-number](https://github.com/vanshika-CG/dsa/tree/main/0202-happy-number/) | Easy |
 | [0204-count-primes](https://github.com/vanshika-CG/dsa/tree/main/0204-count-primes/) | Medium |
@@ -584,6 +585,7 @@ This repository is a collection of Data Structures and Algorithms problems solve
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/vanshika-CG/dsa/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0053-maximum-subarray](https://github.com/vanshika-CG/dsa/tree/main/0053-maximum-subarray/) | Medium |
+| [0070-climbing-stairs](https://github.com/vanshika-CG/dsa/tree/main/0070-climbing-stairs/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/vanshika-CG/dsa/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/vanshika-CG/dsa/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0152-maximum-product-subarray](https://github.com/vanshika-CG/dsa/tree/main/0152-maximum-product-subarray/) | Medium |
@@ -847,5 +849,6 @@ This repository is a collection of Data Structures and Algorithms problems solve
 ## Memoization
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0070-climbing-stairs](https://github.com/vanshika-CG/dsa/tree/main/0070-climbing-stairs/) | Easy |
 | [0509-fibonacci-number](https://github.com/vanshika-CG/dsa/tree/main/0509-fibonacci-number/) | Easy |
 <!---LeetCode Topics End-->
