@@ -1,14 +1,15 @@
 class Solution {
 public:
-    unordered_map<int, int> dp;
-
     int climbStairs(int n) {
-        if (n == 1 || n == 2)
-            return n;
+        if(n == 1 || n == 2) return n;
+        vector<int> dp(n + 1);
 
-        if (dp.find(n) != dp.end())
-            return dp[n];
+        dp[1] = 1;
+        dp[2] = 2;
 
-        return dp[n] = climbStairs(n - 1) + climbStairs(n - 2);
+        for (int i = 3; i <= n; i++) {
+            dp[i] = dp[i - 1] + dp[i - 2];
+        }
+        return dp[n];
     }
 };
